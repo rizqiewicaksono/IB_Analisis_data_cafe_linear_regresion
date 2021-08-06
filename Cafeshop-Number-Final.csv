@@ -1,0 +1,1001 @@
+id,tanggal,customer_nama,kasir_nama,kategori,nama_produk,jumlah,harga,tipe_order,tipe_pembayaran
+1,21-Nov-2020,Nickola,Roy,Makanan,Cireng,1,30801,Dine In,Cash
+2,11-May-2021,Kristopher,Edining,Minuman,Americano,3,30976,Dine In,Cash
+3,26-Apr-2021,Evelyn,Edining,Makanan,Nasi Goreng,3,20446,Delivery,Debit
+4,26-Nov-2020,Ann-marie,Roy,Minuman,Cappucino,2,21379,Dine In,Cash
+5,09-May-2021,Jenni,Edining,Makanan,Gyoza,3,21419,Take Away,Debit
+6,23-Oct-2020,Baird,Edining,Minuman,Lemon Teh,2,15089,Take Away,Cash
+7,14-Nov-2020,Shanan,Edining,Makanan,Mie Ayam,3,29440,Delivery,Cash
+8,15-Jan-2021,Federica,Kevin,Minuman,Ice Teh,2,22163,Dine In,Debit
+9,31-Mar-2021,Hedwig,Ganing,Makanan,Siomay,1,27465,Dine In,Debit
+10,24-Aug-2020,Wini,Ganing,Minuman,Redvelvet,2,29901,Dine In,Cash
+11,13-Oct-2020,Teddie,Roy,Makanan,Cireng,3,18314,Take Away,Cash
+12,29-Dec-2020,Rolph,Kevin,Minuman,Americano,3,30971,Delivery,Cash
+13,13-Apr-2021,Lilias,Putra,Makanan,Nasi Goreng,2,26273,Dine In,Debit
+14,23-Dec-2020,Vincents,Edining,Minuman,Cappucino,2,34397,Delivery,Debit
+15,24-Dec-2020,Cesare,Roy,Makanan,Gyoza,3,17509,Take Away,Cash
+16,03-May-2021,Darb,Roy,Minuman,Lemon Teh,3,22523,Take Away,Debit
+17,17-Jun-2021,Tasia,Ganing,Makanan,Mie Ayam,3,21985,Take Away,Cash
+18,01-Jan-2021,Hurlee,Ganing,Minuman,Ice Teh,1,19013,Take Away,Cash
+19,04-Nov-2020,Isak,Roy,Makanan,Siomay,3,18749,Dine In,Debit
+20,01-Jun-2021,Kiri,Putra,Minuman,Redvelvet,3,26276,Dine In,Debit
+21,27-Nov-2020,Ruggiero,Edining,Makanan,Cireng,2,31810,Dine In,Cash
+22,03-Dec-2020,Thea,Roy,Minuman,Americano,3,33509,Delivery,Cash
+23,03-Oct-2020,Henka,Putra,Makanan,Nasi Goreng,1,27179,Dine In,Debit
+24,14-Jul-2021,Jelene,Roy,Minuman,Cappucino,3,20232,Take Away,Cash
+25,27-Mar-2021,Lewiss,Kevin,Makanan,Gyoza,1,26235,Delivery,Cash
+26,23-Jul-2020,Myrvyn,Edining,Minuman,Lemon Teh,1,21167,Dine In,Debit
+27,09-Nov-2020,Daffi,Edining,Makanan,Mie Ayam,3,19706,Delivery,Debit
+28,15-Feb-2021,Marcellina,Kevin,Minuman,Ice Teh,1,15912,Take Away,Debit
+29,03-Jan-2021,Jerald,Roy,Makanan,Siomay,1,19918,Delivery,Cash
+30,25-Jul-2020,Lazare,Roy,Minuman,Redvelvet,3,21302,Delivery,Cash
+31,02-Nov-2020,Monroe,Putra,Makanan,Cireng,3,17712,Take Away,Cash
+32,25-Jun-2021,Tiffanie,Ganing,Minuman,Americano,2,17517,Take Away,Debit
+33,09-Feb-2021,Chad,Putra,Makanan,Nasi Goreng,1,16466,Dine In,Debit
+34,28-Sep-2020,Curcio,Roy,Minuman,Cappucino,1,22755,Take Away,Cash
+35,01-Apr-2021,Christabella,Ganing,Makanan,Gyoza,1,29981,Dine In,Debit
+36,25-Nov-2020,Clarence,Kevin,Minuman,Lemon Teh,3,23889,Take Away,Debit
+37,12-Dec-2020,Lucian,Putra,Makanan,Mie Ayam,1,24887,Take Away,Cash
+38,13-Feb-2021,Lesya,Ganing,Minuman,Ice Teh,1,34516,Take Away,Cash
+39,08-Mar-2021,Wyndham,Edining,Makanan,Siomay,1,26933,Take Away,Cash
+40,23-Oct-2020,Tatiana,Roy,Minuman,Redvelvet,1,33829,Take Away,Debit
+41,10-Dec-2020,Davon,Kevin,Makanan,Cireng,2,34258,Delivery,Cash
+42,12-Jun-2021,Tadd,Kevin,Minuman,Americano,3,23958,Take Away,Debit
+43,04-May-2021,Ashely,Edining,Makanan,Nasi Goreng,2,18322,Delivery,Cash
+44,24-Jan-2021,Aubree,Edining,Minuman,Cappucino,2,26399,Dine In,Cash
+45,27-Oct-2020,Alisha,Roy,Makanan,Gyoza,1,25451,Dine In,Cash
+46,03-Oct-2020,Bidget,Putra,Minuman,Lemon Teh,3,34569,Take Away,Debit
+47,26-Aug-2020,Jackquelin,Roy,Makanan,Mie Ayam,1,34893,Take Away,Cash
+48,16-Sep-2020,Nataline,Putra,Minuman,Ice Teh,3,30143,Delivery,Debit
+49,09-Jan-2021,Skipper,Putra,Makanan,Siomay,1,32414,Delivery,Cash
+50,15-Sep-2020,Emmalynne,Kevin,Minuman,Redvelvet,2,33830,Take Away,Debit
+51,25-Apr-2021,Tabbatha,Roy,Makanan,Cireng,1,15400,Delivery,Debit
+52,01-Jan-2021,Rheta,Kevin,Minuman,Americano,1,30199,Dine In,Debit
+53,06-Jan-2021,Kay,Putra,Makanan,Nasi Goreng,2,30148,Dine In,Cash
+54,25-Feb-2021,Gillan,Edining,Minuman,Cappucino,3,25061,Delivery,Cash
+55,22-Apr-2021,Octavia,Ganing,Makanan,Gyoza,1,32208,Dine In,Cash
+56,22-Mar-2021,Morry,Edining,Minuman,Lemon Teh,1,31518,Dine In,Cash
+57,14-Jun-2021,Haydon,Roy,Makanan,Mie Ayam,2,25151,Take Away,Cash
+58,03-Oct-2020,Addia,Roy,Minuman,Ice Teh,2,22441,Take Away,Cash
+59,24-Aug-2020,Verena,Putra,Makanan,Siomay,1,28628,Take Away,Cash
+60,13-Dec-2020,Frederik,Kevin,Minuman,Redvelvet,2,25739,Take Away,Cash
+61,19-Oct-2020,Jefferson,Roy,Makanan,Cireng,2,15922,Dine In,Cash
+62,08-Oct-2020,Ellyn,Edining,Minuman,Americano,1,23745,Delivery,Cash
+63,19-Apr-2021,Gunner,Kevin,Makanan,Nasi Goreng,3,34678,Dine In,Cash
+64,01-Apr-2021,Kaitlynn,Kevin,Minuman,Cappucino,2,20584,Delivery,Cash
+65,26-Dec-2020,Cornela,Edining,Makanan,Gyoza,3,22222,Delivery,Cash
+66,07-Jul-2021,Baxie,Ganing,Minuman,Lemon Teh,2,34579,Take Away,Debit
+67,26-May-2021,Mendie,Kevin,Makanan,Mie Ayam,2,33219,Delivery,Cash
+68,15-Nov-2020,Curr,Ganing,Minuman,Ice Teh,3,25333,Take Away,Cash
+69,27-Oct-2020,Johnette,Putra,Makanan,Siomay,1,18114,Take Away,Debit
+70,21-Feb-2021,Devonna,Kevin,Minuman,Redvelvet,3,25747,Dine In,Cash
+71,12-Nov-2020,Emmey,Kevin,Makanan,Cireng,2,32012,Take Away,Cash
+72,20-Nov-2020,Pablo,Putra,Minuman,Americano,1,33269,Take Away,Debit
+73,17-Aug-2020,Fancy,Kevin,Makanan,Nasi Goreng,2,17955,Dine In,Cash
+74,25-Dec-2020,Dane,Ganing,Minuman,Cappucino,2,27056,Delivery,Debit
+75,23-Oct-2020,Jonas,Roy,Makanan,Gyoza,1,26151,Delivery,Cash
+76,12-Mar-2021,Jaye,Kevin,Minuman,Lemon Teh,2,23755,Delivery,Cash
+77,01-Dec-2020,Miquela,Edining,Makanan,Mie Ayam,1,17201,Take Away,Debit
+78,27-Jul-2020,Matthias,Putra,Minuman,Ice Teh,3,22440,Take Away,Cash
+79,12-Sep-2020,Kurt,Roy,Makanan,Siomay,2,16899,Take Away,Debit
+80,17-Aug-2020,Sherwynd,Kevin,Minuman,Redvelvet,2,19141,Dine In,Debit
+81,10-Apr-2021,Anabella,Roy,Makanan,Cireng,2,22573,Take Away,Debit
+82,09-Apr-2021,Charleen,Roy,Minuman,Americano,3,25121,Delivery,Cash
+83,08-Mar-2021,Paulina,Kevin,Makanan,Nasi Goreng,3,28307,Take Away,Debit
+84,24-Jul-2020,Dennet,Roy,Minuman,Cappucino,1,24643,Dine In,Debit
+85,12-Jun-2021,Anselma,Edining,Makanan,Gyoza,3,16998,Delivery,Debit
+86,28-Jan-2021,Leoine,Putra,Minuman,Lemon Teh,1,30920,Delivery,Debit
+87,17-May-2021,Judye,Putra,Makanan,Mie Ayam,3,34262,Dine In,Cash
+88,04-May-2021,Erv,Putra,Minuman,Ice Teh,2,31241,Take Away,Cash
+89,24-Jan-2021,Colleen,Ganing,Makanan,Siomay,2,18096,Delivery,Debit
+90,09-Jun-2021,Britt,Roy,Minuman,Redvelvet,1,24148,Dine In,Cash
+91,22-May-2021,Clywd,Edining,Makanan,Cireng,2,21183,Take Away,Debit
+92,03-Jun-2021,Faye,Ganing,Minuman,Americano,3,27869,Dine In,Debit
+93,12-Sep-2020,Leah,Putra,Makanan,Nasi Goreng,3,16779,Delivery,Cash
+94,15-Dec-2020,Liana,Putra,Minuman,Cappucino,1,24238,Delivery,Cash
+95,18-Jan-2021,Slade,Roy,Makanan,Gyoza,3,20594,Dine In,Debit
+96,12-Jan-2021,Karlen,Edining,Minuman,Lemon Teh,1,25887,Take Away,Cash
+97,12-Jun-2021,Carmine,Putra,Makanan,Mie Ayam,2,28958,Take Away,Debit
+98,01-Mar-2021,Gianna,Kevin,Minuman,Ice Teh,1,23169,Take Away,Debit
+99,04-May-2021,Beverly,Kevin,Makanan,Siomay,2,32724,Take Away,Debit
+100,29-Nov-2020,Valdemar,Roy,Minuman,Redvelvet,3,30676,Take Away,Cash
+101,01-Feb-2021,Park,Roy,Makanan,Cireng,3,29192,Dine In,Cash
+102,21-Jun-2021,Ced,Ganing,Minuman,Americano,3,22232,Take Away,Cash
+103,13-Apr-2021,Melita,Roy,Makanan,Nasi Goreng,3,23055,Take Away,Debit
+104,23-Jun-2021,Rustie,Ganing,Minuman,Cappucino,2,30195,Take Away,Cash
+105,19-Feb-2021,Davie,Kevin,Makanan,Gyoza,3,34701,Dine In,Cash
+106,12-Jul-2021,Ric,Kevin,Minuman,Lemon Teh,1,32305,Take Away,Debit
+107,20-Jun-2021,Eveline,Edining,Makanan,Mie Ayam,2,16361,Dine In,Cash
+108,22-Aug-2020,Jo,Ganing,Minuman,Ice Teh,2,15218,Delivery,Debit
+109,28-Jan-2021,Dani,Roy,Makanan,Siomay,3,20292,Take Away,Cash
+110,11-Jan-2021,Jade,Ganing,Minuman,Redvelvet,2,31042,Dine In,Cash
+111,23-Apr-2021,Burt,Roy,Makanan,Cireng,3,21986,Delivery,Debit
+112,29-Nov-2020,Nikolaus,Edining,Minuman,Americano,3,31145,Dine In,Cash
+113,07-Jan-2021,Dorotea,Putra,Makanan,Nasi Goreng,3,17296,Take Away,Debit
+114,26-Aug-2020,De,Edining,Minuman,Cappucino,1,26162,Dine In,Debit
+115,07-Dec-2020,Olivette,Ganing,Makanan,Gyoza,1,23088,Delivery,Cash
+116,10-Aug-2020,Gunner,Roy,Minuman,Lemon Teh,1,31389,Take Away,Cash
+117,13-May-2021,Alice,Ganing,Makanan,Mie Ayam,3,20579,Delivery,Debit
+118,26-Apr-2021,Alfie,Roy,Minuman,Ice Teh,3,18365,Delivery,Debit
+119,05-Aug-2020,Zsa zsa,Edining,Makanan,Siomay,3,24610,Take Away,Debit
+120,04-Jun-2021,Ynes,Putra,Minuman,Redvelvet,3,28244,Take Away,Debit
+121,30-Jul-2020,Karon,Kevin,Makanan,Cireng,3,17149,Delivery,Debit
+122,17-Dec-2020,Sapphire,Roy,Minuman,Americano,1,34792,Dine In,Debit
+123,02-Jul-2021,Colline,Ganing,Makanan,Nasi Goreng,3,24122,Delivery,Cash
+124,07-Aug-2020,Evin,Ganing,Minuman,Cappucino,2,21913,Delivery,Cash
+125,26-Jul-2020,Silvia,Kevin,Makanan,Gyoza,2,22244,Delivery,Debit
+126,16-Mar-2021,Brand,Putra,Minuman,Lemon Teh,3,15891,Dine In,Cash
+127,14-Feb-2021,Brandi,Ganing,Makanan,Mie Ayam,3,16773,Delivery,Debit
+128,01-Aug-2020,Boris,Ganing,Minuman,Ice Teh,1,28078,Delivery,Debit
+129,14-Oct-2020,Ervin,Edining,Makanan,Siomay,1,27768,Take Away,Debit
+130,15-May-2021,Curran,Kevin,Minuman,Redvelvet,2,17660,Dine In,Cash
+131,01-Feb-2021,Deborah,Putra,Makanan,Cireng,1,21489,Dine In,Cash
+132,18-Jun-2021,Susie,Edining,Minuman,Americano,3,21158,Dine In,Cash
+133,15-Apr-2021,Dari,Roy,Makanan,Nasi Goreng,3,19190,Take Away,Debit
+134,25-Feb-2021,Doroteya,Roy,Minuman,Cappucino,1,20298,Dine In,Debit
+135,01-Mar-2021,Roderigo,Roy,Makanan,Gyoza,2,31049,Dine In,Cash
+136,21-Oct-2020,Lewiss,Edining,Minuman,Lemon Teh,2,25639,Delivery,Cash
+137,08-Sep-2020,Tiphany,Ganing,Makanan,Mie Ayam,3,18491,Delivery,Debit
+138,07-Dec-2020,Aurel,Kevin,Minuman,Ice Teh,3,22965,Delivery,Cash
+139,01-May-2021,Costanza,Edining,Makanan,Siomay,1,15839,Dine In,Debit
+140,18-Jun-2021,Efren,Kevin,Minuman,Redvelvet,2,18596,Dine In,Cash
+141,06-Oct-2020,Arlen,Ganing,Makanan,Cireng,1,21042,Dine In,Debit
+142,03-May-2021,Danya,Roy,Minuman,Americano,2,24074,Take Away,Debit
+143,31-Dec-2020,Cymbre,Edining,Makanan,Nasi Goreng,1,23568,Delivery,Cash
+144,26-Mar-2021,Danyelle,Ganing,Minuman,Cappucino,1,16130,Delivery,Cash
+145,11-Jan-2021,Peg,Kevin,Makanan,Gyoza,2,16124,Dine In,Debit
+146,17-Aug-2020,Alexandr,Putra,Minuman,Lemon Teh,3,30986,Dine In,Debit
+147,29-Oct-2020,Wald,Putra,Makanan,Mie Ayam,3,33135,Take Away,Debit
+148,09-Apr-2021,Gillan,Roy,Minuman,Ice Teh,2,33145,Delivery,Cash
+149,10-Jan-2021,Kenna,Kevin,Makanan,Siomay,2,30531,Take Away,Debit
+150,06-Sep-2020,Norene,Edining,Minuman,Redvelvet,2,21703,Dine In,Cash
+151,11-Aug-2020,Cynde,Kevin,Makanan,Cireng,1,26552,Delivery,Cash
+152,04-Jun-2021,Des,Putra,Minuman,Americano,1,24632,Dine In,Cash
+153,27-Mar-2021,Jillana,Roy,Makanan,Nasi Goreng,3,28855,Dine In,Debit
+154,22-Feb-2021,Nathalia,Roy,Minuman,Cappucino,3,19037,Dine In,Debit
+155,09-Jul-2021,Malchy,Kevin,Makanan,Gyoza,1,29485,Dine In,Debit
+156,14-Sep-2020,Margie,Putra,Minuman,Lemon Teh,3,26953,Delivery,Debit
+157,29-Jan-2021,Tades,Ganing,Makanan,Mie Ayam,1,32095,Take Away,Cash
+158,29-Jul-2020,Devan,Kevin,Minuman,Ice Teh,1,31477,Dine In,Cash
+159,22-Apr-2021,Linnet,Roy,Makanan,Siomay,3,16722,Dine In,Debit
+160,01-Jun-2021,Debby,Kevin,Minuman,Redvelvet,1,21800,Delivery,Cash
+161,04-Jan-2021,Quintana,Edining,Makanan,Cireng,1,21063,Delivery,Debit
+162,19-Dec-2020,Trip,Edining,Minuman,Americano,3,31119,Dine In,Debit
+163,07-Sep-2020,Matt,Putra,Makanan,Nasi Goreng,3,15614,Delivery,Debit
+164,23-Nov-2020,Cam,Kevin,Minuman,Cappucino,1,23951,Dine In,Cash
+165,23-Sep-2020,Doreen,Kevin,Makanan,Gyoza,1,31985,Delivery,Debit
+166,30-Oct-2020,Gideon,Putra,Minuman,Lemon Teh,1,29963,Take Away,Debit
+167,13-May-2021,Quill,Putra,Makanan,Mie Ayam,2,34343,Take Away,Debit
+168,07-Dec-2020,Gianna,Putra,Minuman,Ice Teh,2,19282,Delivery,Cash
+169,25-Aug-2020,Patty,Kevin,Makanan,Siomay,1,15645,Dine In,Debit
+170,12-Feb-2021,Carroll,Roy,Minuman,Redvelvet,1,16804,Dine In,Cash
+171,25-Nov-2020,Ruthann,Roy,Makanan,Cireng,3,30510,Delivery,Cash
+172,22-Sep-2020,Emanuel,Ganing,Minuman,Americano,3,33684,Delivery,Debit
+173,16-Jul-2021,Carolann,Edining,Makanan,Nasi Goreng,2,25513,Delivery,Debit
+174,01-Aug-2020,Rodolfo,Roy,Minuman,Cappucino,3,19276,Dine In,Cash
+175,16-May-2021,Carmine,Putra,Makanan,Gyoza,3,17218,Take Away,Debit
+176,12-Sep-2020,Brocky,Roy,Minuman,Lemon Teh,3,32018,Take Away,Cash
+177,26-Jul-2020,Orlan,Putra,Makanan,Mie Ayam,1,25539,Take Away,Debit
+178,01-May-2021,Kaitlyn,Kevin,Minuman,Ice Teh,2,18859,Dine In,Cash
+179,23-Sep-2020,Maggie,Putra,Makanan,Siomay,1,29186,Take Away,Debit
+180,31-Jan-2021,Malory,Kevin,Minuman,Redvelvet,2,21171,Dine In,Cash
+181,01-Feb-2021,Farlay,Kevin,Makanan,Cireng,2,29697,Dine In,Debit
+182,26-Nov-2020,Gertrudis,Putra,Minuman,Americano,3,24839,Take Away,Debit
+183,22-Oct-2020,Sofie,Ganing,Makanan,Nasi Goreng,3,32845,Take Away,Debit
+184,09-Apr-2021,Andra,Kevin,Minuman,Cappucino,2,23082,Take Away,Debit
+185,10-Nov-2020,Seymour,Edining,Makanan,Gyoza,3,34031,Dine In,Cash
+186,11-Mar-2021,Terry,Roy,Minuman,Lemon Teh,2,25222,Delivery,Cash
+187,07-Jan-2021,Monroe,Edining,Makanan,Mie Ayam,2,15582,Dine In,Cash
+188,30-Sep-2020,Elnar,Ganing,Minuman,Ice Teh,1,32731,Dine In,Cash
+189,17-Sep-2020,Worden,Ganing,Makanan,Siomay,1,18028,Delivery,Cash
+190,26-Jan-2021,Judie,Ganing,Minuman,Redvelvet,3,32821,Delivery,Cash
+191,30-Oct-2020,Barri,Roy,Makanan,Cireng,1,23837,Delivery,Debit
+192,17-Feb-2021,Burnard,Kevin,Minuman,Americano,1,21628,Delivery,Debit
+193,13-Nov-2020,Walden,Putra,Makanan,Nasi Goreng,1,27561,Dine In,Debit
+194,30-Mar-2021,Maye,Roy,Minuman,Cappucino,1,25560,Take Away,Debit
+195,04-Aug-2020,Kandy,Kevin,Makanan,Gyoza,3,29259,Dine In,Cash
+196,11-Mar-2021,Smith,Ganing,Minuman,Lemon Teh,2,19614,Take Away,Debit
+197,29-Jun-2021,Diena,Edining,Makanan,Mie Ayam,2,31165,Delivery,Debit
+198,01-Sep-2020,Chane,Ganing,Minuman,Ice Teh,2,21150,Delivery,Cash
+199,30-Jun-2021,Marlene,Ganing,Makanan,Siomay,3,30108,Dine In,Debit
+200,13-May-2021,Ruperto,Ganing,Minuman,Redvelvet,3,19118,Dine In,Cash
+201,10-Nov-2020,Pancho,Kevin,Makanan,Cireng,3,17711,Delivery,Debit
+202,26-Feb-2021,Krishna,Roy,Minuman,Americano,1,27851,Take Away,Debit
+203,25-Apr-2021,Itch,Putra,Makanan,Nasi Goreng,3,25926,Dine In,Debit
+204,25-Jan-2021,Junie,Edining,Minuman,Cappucino,2,32215,Take Away,Cash
+205,10-Jun-2021,Lowe,Ganing,Makanan,Gyoza,2,25980,Take Away,Cash
+206,04-Dec-2020,Bald,Edining,Minuman,Lemon Teh,3,23558,Delivery,Cash
+207,15-Mar-2021,Parke,Roy,Makanan,Mie Ayam,1,26207,Take Away,Debit
+208,05-Feb-2021,Price,Ganing,Minuman,Ice Teh,3,23911,Take Away,Debit
+209,23-Apr-2021,Katusha,Edining,Makanan,Siomay,2,15668,Delivery,Cash
+210,17-Apr-2021,Barty,Edining,Minuman,Redvelvet,1,23837,Take Away,Cash
+211,27-Jan-2021,Gunar,Roy,Makanan,Cireng,2,28749,Dine In,Cash
+212,09-Apr-2021,Sileas,Putra,Minuman,Americano,1,32484,Take Away,Cash
+213,30-Jul-2020,Marji,Roy,Makanan,Nasi Goreng,2,16441,Take Away,Debit
+214,10-Mar-2021,Blinnie,Ganing,Minuman,Cappucino,1,22923,Take Away,Debit
+215,15-Jul-2021,Sharline,Roy,Makanan,Gyoza,2,22561,Delivery,Cash
+216,02-May-2021,Israel,Roy,Minuman,Lemon Teh,2,18798,Take Away,Debit
+217,13-Oct-2020,Hendrick,Ganing,Makanan,Mie Ayam,2,22850,Take Away,Cash
+218,27-Nov-2020,Caleb,Ganing,Minuman,Ice Teh,2,28092,Dine In,Debit
+219,31-May-2021,Jefferey,Ganing,Makanan,Siomay,2,25244,Take Away,Debit
+220,05-Jun-2021,Travers,Ganing,Minuman,Redvelvet,2,34574,Dine In,Debit
+221,10-Feb-2021,Albertine,Ganing,Makanan,Cireng,3,17069,Take Away,Debit
+222,16-Dec-2020,Sherri,Kevin,Minuman,Americano,2,30606,Take Away,Debit
+223,20-Jan-2021,Beck,Putra,Makanan,Nasi Goreng,1,26772,Delivery,Cash
+224,01-Jul-2021,Thorn,Ganing,Minuman,Cappucino,2,27284,Dine In,Cash
+225,12-Dec-2020,Jude,Putra,Makanan,Gyoza,2,19055,Delivery,Cash
+226,15-Dec-2020,Foss,Kevin,Minuman,Lemon Teh,1,23465,Delivery,Debit
+227,17-Feb-2021,Cammie,Ganing,Makanan,Mie Ayam,1,31309,Take Away,Cash
+228,03-Aug-2020,Channa,Kevin,Minuman,Ice Teh,2,23798,Take Away,Debit
+229,28-Jun-2021,Audrey,Kevin,Makanan,Siomay,3,30340,Dine In,Cash
+230,14-Nov-2020,Amberly,Edining,Minuman,Redvelvet,3,23116,Delivery,Cash
+231,29-Mar-2021,Amelie,Putra,Makanan,Cireng,1,33620,Dine In,Debit
+232,21-Dec-2020,Jaymie,Ganing,Minuman,Americano,2,21809,Take Away,Cash
+233,15-Jul-2021,Arron,Ganing,Makanan,Nasi Goreng,2,24296,Dine In,Cash
+234,05-Dec-2020,Lindsay,Putra,Minuman,Cappucino,1,33725,Take Away,Debit
+235,28-Nov-2020,Barnebas,Roy,Makanan,Gyoza,2,26154,Take Away,Cash
+236,21-Feb-2021,Sidnee,Kevin,Minuman,Lemon Teh,1,18890,Dine In,Debit
+237,28-Sep-2020,Rodolfo,Roy,Makanan,Mie Ayam,1,26501,Dine In,Cash
+238,08-Jul-2021,Hagen,Edining,Minuman,Ice Teh,1,26650,Delivery,Debit
+239,01-Mar-2021,Gabi,Putra,Makanan,Siomay,1,31785,Take Away,Debit
+240,29-Mar-2021,Barnabas,Putra,Minuman,Redvelvet,1,18410,Take Away,Debit
+241,01-Jun-2021,Coralie,Edining,Makanan,Cireng,3,32631,Dine In,Debit
+242,10-Feb-2021,Betsy,Putra,Minuman,Americano,1,25554,Dine In,Cash
+243,14-May-2021,Farah,Putra,Makanan,Nasi Goreng,1,34311,Take Away,Debit
+244,04-Dec-2020,Ilysa,Edining,Minuman,Cappucino,3,25982,Take Away,Debit
+245,17-Sep-2020,Aristotle,Edining,Makanan,Gyoza,1,30167,Delivery,Cash
+246,10-Jan-2021,Anallese,Ganing,Minuman,Lemon Teh,1,24567,Take Away,Cash
+247,31-Oct-2020,Reinaldos,Ganing,Makanan,Mie Ayam,3,29906,Dine In,Cash
+248,02-Jun-2021,Marlowe,Roy,Minuman,Ice Teh,3,33787,Take Away,Cash
+249,24-May-2021,Kellen,Ganing,Makanan,Siomay,1,21228,Dine In,Cash
+250,19-Sep-2020,Annabal,Kevin,Minuman,Redvelvet,2,34022,Take Away,Cash
+251,17-Nov-2020,Stevy,Kevin,Makanan,Cireng,3,16315,Take Away,Cash
+252,10-Apr-2021,Annabelle,Kevin,Minuman,Americano,2,31164,Delivery,Cash
+253,30-Dec-2020,Evangelina,Roy,Makanan,Nasi Goreng,2,17668,Delivery,Cash
+254,11-Oct-2020,Sacha,Roy,Minuman,Cappucino,1,29695,Delivery,Cash
+255,01-Jul-2021,Aaren,Ganing,Makanan,Gyoza,2,18434,Dine In,Cash
+256,27-May-2021,Kinna,Putra,Minuman,Lemon Teh,2,23704,Delivery,Cash
+257,05-May-2021,Suzanne,Kevin,Makanan,Mie Ayam,3,29471,Delivery,Cash
+258,27-Jul-2020,Kala,Edining,Minuman,Ice Teh,1,22357,Take Away,Cash
+259,15-Jul-2021,Barry,Kevin,Makanan,Siomay,1,34092,Take Away,Cash
+260,05-Aug-2020,Viviana,Kevin,Minuman,Redvelvet,2,28706,Take Away,Debit
+261,23-May-2021,Ignatius,Roy,Makanan,Cireng,3,27064,Delivery,Debit
+262,21-Dec-2020,Waiter,Putra,Minuman,Americano,2,31313,Take Away,Cash
+263,29-Mar-2021,Solomon,Roy,Makanan,Nasi Goreng,1,31858,Dine In,Debit
+264,18-Jul-2021,Tommie,Putra,Minuman,Cappucino,2,17756,Delivery,Cash
+265,16-Jun-2021,Aguistin,Roy,Makanan,Gyoza,3,30996,Delivery,Debit
+266,12-Aug-2020,Anna-maria,Edining,Minuman,Lemon Teh,3,32254,Delivery,Cash
+267,24-Aug-2020,Leon,Roy,Makanan,Mie Ayam,1,17813,Delivery,Debit
+268,28-Aug-2020,Cassaundra,Kevin,Minuman,Ice Teh,3,21999,Dine In,Cash
+269,23-Apr-2021,Dorri,Edining,Makanan,Siomay,1,26577,Take Away,Debit
+270,04-Sep-2020,Donn,Roy,Minuman,Redvelvet,3,17449,Take Away,Cash
+271,19-Aug-2020,Corrine,Edining,Makanan,Cireng,2,16300,Delivery,Debit
+272,13-Oct-2020,Benoite,Edining,Minuman,Americano,3,17839,Dine In,Cash
+273,04-May-2021,Elita,Edining,Makanan,Nasi Goreng,1,23578,Take Away,Cash
+274,10-Oct-2020,Kathlin,Roy,Minuman,Cappucino,3,30347,Delivery,Debit
+275,11-Mar-2021,Donavon,Kevin,Makanan,Gyoza,1,19570,Dine In,Debit
+276,12-Feb-2021,Gasparo,Roy,Minuman,Lemon Teh,3,30043,Delivery,Debit
+277,04-Sep-2020,Amii,Ganing,Makanan,Mie Ayam,3,21547,Dine In,Cash
+278,12-Feb-2021,Wendel,Kevin,Minuman,Ice Teh,3,17359,Take Away,Debit
+279,12-Nov-2020,Annemarie,Kevin,Makanan,Siomay,3,20510,Take Away,Debit
+280,17-Feb-2021,Gonzales,Ganing,Minuman,Redvelvet,3,22881,Delivery,Cash
+281,06-Sep-2020,Obed,Edining,Makanan,Cireng,1,17900,Delivery,Debit
+282,22-Apr-2021,Yardley,Roy,Minuman,Americano,3,31304,Delivery,Cash
+283,13-May-2021,Duane,Putra,Makanan,Nasi Goreng,3,18535,Take Away,Cash
+284,01-Jun-2021,Oren,Roy,Minuman,Cappucino,1,27959,Take Away,Debit
+285,11-Jun-2021,Saunder,Putra,Makanan,Gyoza,1,18353,Take Away,Cash
+286,07-Mar-2021,Pearce,Kevin,Minuman,Lemon Teh,1,26171,Take Away,Debit
+287,05-Oct-2020,Charissa,Ganing,Makanan,Mie Ayam,3,15857,Delivery,Debit
+288,15-Sep-2020,Adda,Kevin,Minuman,Ice Teh,2,30204,Delivery,Cash
+289,05-Jul-2021,Sheilah,Putra,Makanan,Siomay,3,23666,Dine In,Debit
+290,04-Sep-2020,Teddie,Ganing,Minuman,Redvelvet,1,15709,Delivery,Cash
+291,08-Jan-2021,Thaine,Kevin,Makanan,Cireng,1,19311,Take Away,Debit
+292,16-Jul-2021,Jan,Edining,Minuman,Americano,3,27925,Take Away,Cash
+293,26-Oct-2020,Dudley,Putra,Makanan,Nasi Goreng,3,20340,Take Away,Debit
+294,25-Aug-2020,Louise,Kevin,Minuman,Cappucino,2,15150,Take Away,Debit
+295,04-Jan-2021,Wood,Ganing,Makanan,Gyoza,3,26088,Dine In,Cash
+296,08-Jul-2021,Meara,Roy,Minuman,Lemon Teh,2,28395,Take Away,Cash
+297,13-Jan-2021,Karly,Roy,Makanan,Mie Ayam,2,16908,Take Away,Debit
+298,29-Dec-2020,Del,Kevin,Minuman,Ice Teh,3,32900,Dine In,Cash
+299,21-May-2021,Karita,Ganing,Makanan,Siomay,1,25393,Dine In,Cash
+300,20-Oct-2020,Fonsie,Roy,Minuman,Redvelvet,2,32140,Delivery,Cash
+301,08-Sep-2020,Aksel,Ganing,Makanan,Cireng,2,15479,Dine In,Debit
+302,14-Jan-2021,Hally,Putra,Minuman,Americano,3,27509,Delivery,Cash
+303,30-Jan-2021,Shirleen,Roy,Makanan,Nasi Goreng,3,29721,Delivery,Debit
+304,07-Mar-2021,Wye,Kevin,Minuman,Cappucino,3,18347,Dine In,Cash
+305,09-Oct-2020,Reeba,Roy,Makanan,Gyoza,1,25908,Delivery,Cash
+306,01-Oct-2020,Jacky,Edining,Minuman,Lemon Teh,3,18279,Dine In,Debit
+307,09-Jan-2021,Talbert,Putra,Makanan,Mie Ayam,2,17167,Take Away,Cash
+308,22-Oct-2020,Liana,Kevin,Minuman,Ice Teh,2,28848,Take Away,Cash
+309,18-Jan-2021,Candice,Kevin,Makanan,Siomay,2,31271,Delivery,Debit
+310,18-Dec-2020,Carling,Edining,Minuman,Redvelvet,1,33860,Dine In,Debit
+311,11-Dec-2020,Sherri,Ganing,Makanan,Cireng,2,32885,Dine In,Cash
+312,16-Aug-2020,Brinna,Putra,Minuman,Americano,3,30781,Take Away,Debit
+313,24-Mar-2021,Mariette,Putra,Makanan,Nasi Goreng,3,26404,Take Away,Debit
+314,25-Jul-2020,Meier,Kevin,Minuman,Cappucino,3,30894,Dine In,Debit
+315,01-Oct-2020,Josi,Kevin,Makanan,Gyoza,3,22836,Take Away,Debit
+316,04-Sep-2020,Joellyn,Kevin,Minuman,Lemon Teh,1,22750,Take Away,Cash
+317,05-Nov-2020,Archibaldo,Ganing,Makanan,Mie Ayam,3,24643,Take Away,Cash
+318,06-Feb-2021,Creigh,Ganing,Minuman,Ice Teh,2,34990,Delivery,Cash
+319,15-Jan-2021,Stanwood,Putra,Makanan,Siomay,1,18655,Delivery,Cash
+320,27-Jan-2021,Pegeen,Putra,Minuman,Redvelvet,2,31631,Dine In,Debit
+321,02-Aug-2020,Theda,Putra,Makanan,Cireng,2,27225,Dine In,Cash
+322,20-Jan-2021,Emmalyn,Kevin,Minuman,Americano,1,33441,Dine In,Cash
+323,05-Sep-2020,Rebecca,Roy,Makanan,Nasi Goreng,1,23584,Dine In,Cash
+324,06-Dec-2020,Chloris,Ganing,Minuman,Cappucino,3,27148,Take Away,Debit
+325,10-Jan-2021,Cathie,Edining,Makanan,Gyoza,1,27483,Take Away,Debit
+326,15-Oct-2020,Cullen,Edining,Minuman,Lemon Teh,2,24017,Delivery,Cash
+327,02-Apr-2021,Whitney,Roy,Makanan,Mie Ayam,1,33281,Take Away,Debit
+328,20-Mar-2021,Arlen,Edining,Minuman,Ice Teh,2,33435,Dine In,Cash
+329,07-Apr-2021,Chucho,Roy,Makanan,Siomay,2,21332,Take Away,Cash
+330,20-Jun-2021,Barbe,Edining,Minuman,Redvelvet,2,28069,Take Away,Cash
+331,03-Nov-2020,Jo,Putra,Makanan,Cireng,2,24528,Delivery,Debit
+332,25-Oct-2020,Leese,Kevin,Minuman,Americano,3,27896,Delivery,Cash
+333,05-Aug-2020,Vivia,Edining,Makanan,Nasi Goreng,3,33127,Delivery,Debit
+334,20-Jun-2021,Letta,Ganing,Minuman,Cappucino,2,29297,Dine In,Cash
+335,01-Jun-2021,Nikola,Ganing,Makanan,Gyoza,3,22948,Dine In,Debit
+336,11-Feb-2021,Maury,Roy,Minuman,Lemon Teh,1,21550,Delivery,Cash
+337,31-Jan-2021,Arin,Putra,Makanan,Mie Ayam,3,16980,Take Away,Cash
+338,29-Aug-2020,Sergent,Roy,Minuman,Ice Teh,1,28855,Delivery,Cash
+339,27-Jan-2021,Penelopa,Kevin,Makanan,Siomay,3,31219,Delivery,Debit
+340,30-Jul-2020,Fianna,Putra,Minuman,Redvelvet,1,31997,Delivery,Debit
+341,16-Oct-2020,Tasia,Roy,Makanan,Cireng,1,23718,Dine In,Debit
+342,27-Jul-2020,Elyse,Putra,Minuman,Americano,3,33529,Delivery,Debit
+343,23-Nov-2020,Merry,Putra,Makanan,Nasi Goreng,1,17073,Take Away,Cash
+344,23-Oct-2020,Guinevere,Ganing,Minuman,Cappucino,3,32021,Delivery,Debit
+345,11-Oct-2020,Thatcher,Ganing,Makanan,Gyoza,1,32831,Take Away,Debit
+346,08-Dec-2020,Barthel,Ganing,Minuman,Lemon Teh,2,20973,Take Away,Cash
+347,29-Aug-2020,Catriona,Ganing,Makanan,Mie Ayam,1,23901,Dine In,Debit
+348,01-Jan-2021,Cristy,Kevin,Minuman,Ice Teh,1,17508,Take Away,Cash
+349,11-Oct-2020,Ignazio,Edining,Makanan,Siomay,3,24952,Delivery,Cash
+350,22-Jul-2020,Brit,Roy,Minuman,Redvelvet,3,30810,Delivery,Debit
+351,10-Oct-2020,Herb,Putra,Makanan,Cireng,3,25152,Delivery,Cash
+352,23-Mar-2021,Brnaba,Roy,Minuman,Americano,1,26775,Delivery,Cash
+353,12-May-2021,Nari,Roy,Makanan,Nasi Goreng,2,29512,Dine In,Debit
+354,12-Sep-2020,Wrennie,Roy,Minuman,Cappucino,1,21848,Take Away,Cash
+355,30-Nov-2020,Heather,Ganing,Makanan,Gyoza,2,28651,Delivery,Cash
+356,04-Sep-2020,Rosabel,Kevin,Minuman,Lemon Teh,1,16474,Dine In,Cash
+357,05-Feb-2021,Tallulah,Kevin,Makanan,Mie Ayam,1,23986,Delivery,Cash
+358,11-Aug-2020,Bonnie,Ganing,Minuman,Ice Teh,2,15786,Delivery,Debit
+359,16-Aug-2020,Greggory,Roy,Makanan,Siomay,1,18767,Take Away,Cash
+360,23-Feb-2021,Berty,Kevin,Minuman,Redvelvet,1,29709,Dine In,Debit
+361,10-Nov-2020,Pernell,Kevin,Makanan,Cireng,1,21363,Delivery,Cash
+362,23-May-2021,Bevon,Putra,Minuman,Americano,3,28233,Delivery,Debit
+363,11-Jun-2021,Zacherie,Ganing,Makanan,Nasi Goreng,3,25858,Take Away,Cash
+364,26-Mar-2021,Zechariah,Roy,Minuman,Cappucino,2,24821,Take Away,Cash
+365,26-Apr-2021,Janeta,Edining,Makanan,Gyoza,3,17828,Dine In,Debit
+366,29-May-2021,Paddy,Ganing,Minuman,Lemon Teh,2,22548,Dine In,Cash
+367,15-Dec-2020,Harrietta,Putra,Makanan,Mie Ayam,1,24135,Dine In,Debit
+368,07-May-2021,Peggy,Edining,Minuman,Ice Teh,2,28375,Take Away,Cash
+369,10-Jul-2021,Yale,Edining,Makanan,Siomay,2,19221,Take Away,Debit
+370,04-Jul-2021,Berk,Kevin,Minuman,Redvelvet,2,16214,Delivery,Debit
+371,22-Apr-2021,Danit,Ganing,Makanan,Cireng,2,21549,Take Away,Debit
+372,27-Jan-2021,Dimitri,Kevin,Minuman,Americano,3,30347,Delivery,Cash
+373,20-Nov-2020,Lynnette,Edining,Makanan,Nasi Goreng,1,27233,Take Away,Debit
+374,27-Mar-2021,Marlo,Ganing,Minuman,Cappucino,1,25560,Delivery,Cash
+375,02-Sep-2020,Hershel,Kevin,Makanan,Gyoza,1,34350,Take Away,Debit
+376,15-Jul-2021,Nicole,Putra,Minuman,Lemon Teh,1,17171,Delivery,Cash
+377,29-Oct-2020,Terrie,Edining,Makanan,Mie Ayam,1,19257,Dine In,Cash
+378,18-Apr-2021,Audry,Edining,Minuman,Ice Teh,2,25449,Dine In,Debit
+379,17-Jul-2021,Darlleen,Kevin,Makanan,Siomay,1,25019,Delivery,Cash
+380,09-May-2021,Porty,Roy,Minuman,Redvelvet,1,30609,Dine In,Debit
+381,01-Aug-2020,Randi,Ganing,Makanan,Cireng,1,31092,Take Away,Debit
+382,20-Oct-2020,Ronnie,Edining,Minuman,Americano,3,23942,Dine In,Debit
+383,12-Apr-2021,Marve,Ganing,Makanan,Nasi Goreng,3,15973,Dine In,Cash
+384,23-Jul-2020,Cecilla,Kevin,Minuman,Cappucino,3,28750,Take Away,Debit
+385,07-Dec-2020,Glynnis,Putra,Makanan,Gyoza,3,16042,Dine In,Cash
+386,24-Sep-2020,Joshuah,Edining,Minuman,Lemon Teh,2,24035,Delivery,Cash
+387,15-Dec-2020,Wendall,Edining,Makanan,Mie Ayam,1,33241,Dine In,Debit
+388,04-Jul-2021,Viviana,Putra,Minuman,Ice Teh,3,34132,Take Away,Cash
+389,14-Jan-2021,Alessandro,Putra,Makanan,Siomay,1,15706,Take Away,Cash
+390,22-Oct-2020,Dionisio,Ganing,Minuman,Redvelvet,1,33380,Dine In,Debit
+391,22-Oct-2020,Terry,Edining,Makanan,Cireng,1,31584,Take Away,Cash
+392,06-Sep-2020,Christye,Edining,Minuman,Americano,1,27491,Dine In,Debit
+393,31-Mar-2021,Kassie,Kevin,Makanan,Nasi Goreng,1,22083,Dine In,Cash
+394,08-Jul-2021,Page,Ganing,Minuman,Cappucino,2,22789,Take Away,Debit
+395,12-Feb-2021,Orel,Kevin,Makanan,Gyoza,3,17201,Take Away,Cash
+396,15-Jun-2021,Dalila,Ganing,Minuman,Lemon Teh,3,21617,Take Away,Cash
+397,15-Mar-2021,Neysa,Roy,Makanan,Mie Ayam,3,29423,Take Away,Debit
+398,04-Dec-2020,Jamesy,Putra,Minuman,Ice Teh,2,31117,Take Away,Debit
+399,29-Jan-2021,Randa,Putra,Makanan,Siomay,1,34070,Dine In,Cash
+400,14-Feb-2021,Ingeberg,Kevin,Minuman,Redvelvet,2,23081,Take Away,Cash
+401,08-May-2021,Veronica,Ganing,Makanan,Cireng,1,32434,Delivery,Cash
+402,14-Feb-2021,Wayne,Ganing,Minuman,Americano,2,20427,Delivery,Cash
+403,29-May-2021,Bartolomeo,Edining,Makanan,Nasi Goreng,3,31510,Take Away,Cash
+404,02-Dec-2020,Hyacinthe,Edining,Minuman,Cappucino,3,30937,Delivery,Debit
+405,23-May-2021,Evie,Roy,Makanan,Gyoza,2,34607,Delivery,Cash
+406,27-May-2021,Hobie,Kevin,Minuman,Lemon Teh,1,28498,Take Away,Cash
+407,05-Aug-2020,Cecilius,Edining,Makanan,Mie Ayam,2,15004,Delivery,Debit
+408,07-Oct-2020,Hayes,Ganing,Minuman,Ice Teh,3,17158,Take Away,Cash
+409,04-Mar-2021,Meyer,Edining,Makanan,Siomay,3,16234,Delivery,Debit
+410,20-Dec-2020,Darrel,Edining,Minuman,Redvelvet,3,26136,Delivery,Debit
+411,24-May-2021,Cheryl,Kevin,Makanan,Cireng,3,30610,Delivery,Debit
+412,03-Oct-2020,Reggy,Ganing,Minuman,Americano,3,21992,Take Away,Debit
+413,18-Jul-2021,Michal,Kevin,Makanan,Nasi Goreng,1,30276,Dine In,Debit
+414,10-Jul-2021,Fianna,Edining,Minuman,Cappucino,2,21731,Dine In,Cash
+415,01-Nov-2020,Anastassia,Putra,Makanan,Gyoza,2,32501,Take Away,Cash
+416,10-Feb-2021,Willow,Edining,Minuman,Lemon Teh,2,30703,Take Away,Cash
+417,21-May-2021,Truman,Roy,Makanan,Mie Ayam,3,21264,Take Away,Cash
+418,11-Feb-2021,Aida,Kevin,Minuman,Ice Teh,1,18643,Dine In,Cash
+419,15-Sep-2020,Milo,Ganing,Makanan,Siomay,1,19674,Delivery,Debit
+420,28-Sep-2020,Berry,Kevin,Minuman,Redvelvet,1,33693,Delivery,Cash
+421,02-Jul-2021,Chevalier,Kevin,Makanan,Cireng,2,20050,Take Away,Debit
+422,19-May-2021,Georas,Putra,Minuman,Americano,1,27258,Take Away,Debit
+423,08-Jun-2021,Cinnamon,Roy,Makanan,Nasi Goreng,2,15443,Delivery,Cash
+424,15-Jul-2021,Trudi,Putra,Minuman,Cappucino,3,32231,Dine In,Debit
+425,19-Aug-2020,Thedric,Kevin,Makanan,Gyoza,3,24116,Delivery,Debit
+426,25-Mar-2021,Carma,Ganing,Minuman,Lemon Teh,1,30337,Take Away,Cash
+427,18-Apr-2021,Keslie,Edining,Makanan,Mie Ayam,2,30849,Delivery,Debit
+428,09-Sep-2020,Leontine,Kevin,Minuman,Ice Teh,3,31411,Dine In,Debit
+429,14-Nov-2020,Corie,Putra,Makanan,Siomay,2,19567,Dine In,Cash
+430,11-Apr-2021,Prentiss,Ganing,Minuman,Redvelvet,2,32749,Delivery,Debit
+431,29-Oct-2020,Baryram,Putra,Makanan,Cireng,3,21557,Delivery,Cash
+432,04-Sep-2020,Beth,Kevin,Minuman,Americano,2,19985,Dine In,Debit
+433,20-Feb-2021,Phedra,Edining,Makanan,Nasi Goreng,3,29283,Dine In,Cash
+434,29-Dec-2020,Neille,Ganing,Minuman,Cappucino,1,27572,Delivery,Cash
+435,26-Aug-2020,Zachary,Roy,Makanan,Gyoza,1,32943,Dine In,Cash
+436,28-Apr-2021,Vere,Kevin,Minuman,Lemon Teh,3,28540,Dine In,Cash
+437,27-Dec-2020,Gayleen,Edining,Makanan,Mie Ayam,2,22742,Take Away,Debit
+438,23-Jan-2021,Cindie,Kevin,Minuman,Ice Teh,3,30078,Take Away,Debit
+439,18-Mar-2021,Walliw,Putra,Makanan,Siomay,3,19130,Take Away,Debit
+440,18-May-2021,Friedrick,Kevin,Minuman,Redvelvet,1,17603,Take Away,Cash
+441,05-Feb-2021,Garvy,Ganing,Makanan,Cireng,2,33334,Dine In,Cash
+442,14-Feb-2021,Laurella,Edining,Minuman,Americano,1,27282,Take Away,Debit
+443,26-Oct-2020,Thekla,Ganing,Makanan,Nasi Goreng,3,22682,Delivery,Debit
+444,21-May-2021,Dulcea,Ganing,Minuman,Cappucino,3,23962,Dine In,Debit
+445,01-Sep-2020,Korney,Edining,Makanan,Gyoza,3,18201,Dine In,Debit
+446,23-Nov-2020,Nefen,Roy,Minuman,Lemon Teh,3,24734,Dine In,Cash
+447,30-Nov-2020,Lolita,Ganing,Makanan,Mie Ayam,2,28247,Dine In,Cash
+448,02-Oct-2020,Patton,Roy,Minuman,Ice Teh,3,16665,Take Away,Debit
+449,04-Apr-2021,Otha,Putra,Makanan,Siomay,3,34957,Take Away,Cash
+450,08-May-2021,Carine,Ganing,Minuman,Redvelvet,3,21173,Take Away,Debit
+451,31-Oct-2020,Estel,Roy,Makanan,Cireng,3,21512,Take Away,Debit
+452,07-Feb-2021,Odella,Putra,Minuman,Americano,1,30467,Delivery,Debit
+453,16-Jul-2021,Natale,Edining,Makanan,Nasi Goreng,1,29891,Dine In,Debit
+454,14-Nov-2020,Milzie,Putra,Minuman,Cappucino,2,23008,Take Away,Debit
+455,14-Jan-2021,Marti,Roy,Makanan,Gyoza,3,17904,Take Away,Cash
+456,14-Dec-2020,Hyman,Kevin,Minuman,Lemon Teh,3,32647,Take Away,Debit
+457,17-Apr-2021,Chlo,Ganing,Makanan,Mie Ayam,3,21219,Dine In,Debit
+458,20-Jan-2021,Klarika,Ganing,Minuman,Ice Teh,2,28515,Dine In,Cash
+459,01-Nov-2020,Jilly,Roy,Makanan,Siomay,1,34384,Dine In,Debit
+460,08-Oct-2020,Peyter,Edining,Minuman,Redvelvet,1,20087,Delivery,Debit
+461,24-Jul-2020,Clerkclaude,Roy,Makanan,Cireng,2,33864,Delivery,Cash
+462,28-Aug-2020,Winfield,Ganing,Minuman,Americano,3,15645,Delivery,Debit
+463,20-Jul-2021,Winona,Putra,Makanan,Nasi Goreng,3,21189,Delivery,Cash
+464,20-Apr-2021,Maryellen,Putra,Minuman,Cappucino,2,32042,Delivery,Debit
+465,12-Jun-2021,Amie,Kevin,Makanan,Gyoza,1,33588,Take Away,Debit
+466,07-Oct-2020,Aubry,Ganing,Minuman,Lemon Teh,3,25047,Delivery,Cash
+467,05-Jul-2021,Darin,Ganing,Makanan,Mie Ayam,1,15497,Dine In,Cash
+468,31-Dec-2020,Roarke,Ganing,Minuman,Ice Teh,2,33006,Dine In,Debit
+469,15-Dec-2020,Conney,Putra,Makanan,Siomay,1,21137,Dine In,Cash
+470,24-Jun-2021,Annabelle,Edining,Minuman,Redvelvet,2,27195,Dine In,Debit
+471,27-Feb-2021,Ariela,Edining,Makanan,Cireng,1,15219,Take Away,Debit
+472,25-May-2021,Lizzie,Edining,Minuman,Americano,2,31606,Dine In,Cash
+473,24-Feb-2021,Bone,Ganing,Makanan,Nasi Goreng,2,19187,Dine In,Cash
+474,14-Jun-2021,Noellyn,Kevin,Minuman,Cappucino,2,33806,Dine In,Debit
+475,13-Aug-2020,Jeremy,Roy,Makanan,Gyoza,2,15521,Delivery,Cash
+476,30-Oct-2020,Gerri,Kevin,Minuman,Lemon Teh,2,29096,Delivery,Cash
+477,21-Dec-2020,Hilly,Ganing,Makanan,Mie Ayam,1,22351,Delivery,Cash
+478,03-Jan-2021,Alphonse,Ganing,Minuman,Ice Teh,1,30912,Delivery,Cash
+479,04-May-2021,Felicle,Putra,Makanan,Siomay,1,33761,Dine In,Debit
+480,26-Apr-2021,Suzanne,Ganing,Minuman,Redvelvet,3,33140,Dine In,Cash
+481,15-Feb-2021,Ofella,Roy,Makanan,Cireng,1,33494,Dine In,Cash
+482,30-Sep-2020,Cymbre,Ganing,Minuman,Americano,2,18503,Delivery,Debit
+483,15-Aug-2020,Verene,Edining,Makanan,Nasi Goreng,1,27317,Take Away,Cash
+484,04-Sep-2020,Cinderella,Roy,Minuman,Cappucino,3,23195,Take Away,Cash
+485,14-Jul-2021,Mason,Putra,Makanan,Gyoza,1,22185,Dine In,Cash
+486,26-Jul-2020,Rik,Ganing,Minuman,Lemon Teh,2,31388,Delivery,Cash
+487,05-Sep-2020,Prent,Edining,Makanan,Mie Ayam,1,28469,Dine In,Cash
+488,19-Jan-2021,Denis,Ganing,Minuman,Ice Teh,2,31998,Delivery,Cash
+489,18-Feb-2021,Carney,Kevin,Makanan,Siomay,3,26796,Dine In,Debit
+490,01-Jul-2021,Hadria,Putra,Minuman,Redvelvet,1,25384,Take Away,Debit
+491,07-Sep-2020,Bibbye,Edining,Makanan,Cireng,1,27929,Take Away,Cash
+492,26-Feb-2021,Oriana,Putra,Minuman,Americano,2,29145,Dine In,Cash
+493,03-Apr-2021,Stephie,Ganing,Makanan,Nasi Goreng,1,31221,Delivery,Debit
+494,13-Mar-2021,Kameko,Putra,Minuman,Cappucino,1,18193,Delivery,Cash
+495,08-Jun-2021,Javier,Putra,Makanan,Gyoza,1,30639,Delivery,Cash
+496,08-Mar-2021,Edgard,Edining,Minuman,Lemon Teh,1,22020,Dine In,Cash
+497,18-Apr-2021,Laverne,Edining,Makanan,Mie Ayam,1,19202,Dine In,Cash
+498,11-Sep-2020,Loreen,Edining,Minuman,Ice Teh,3,34254,Dine In,Debit
+499,28-Jan-2021,Marian,Edining,Makanan,Siomay,2,28590,Take Away,Cash
+500,14-Aug-2020,Thoma,Ganing,Minuman,Redvelvet,1,24370,Delivery,Debit
+501,31-Dec-2020,Delcine,Kevin,Makanan,Cireng,3,33412,Dine In,Debit
+502,31-Dec-2020,Elizabet,Putra,Minuman,Americano,3,21122,Delivery,Debit
+503,13-Sep-2020,Raviv,Ganing,Makanan,Nasi Goreng,2,25760,Delivery,Cash
+504,25-Apr-2021,Izabel,Edining,Minuman,Cappucino,3,20494,Dine In,Cash
+505,20-Nov-2020,Andie,Edining,Makanan,Gyoza,1,29388,Take Away,Debit
+506,26-Feb-2021,Loren,Edining,Minuman,Lemon Teh,2,17363,Take Away,Cash
+507,07-Mar-2021,Shell,Ganing,Makanan,Mie Ayam,2,15262,Take Away,Cash
+508,17-Mar-2021,Agustin,Putra,Minuman,Ice Teh,2,25818,Take Away,Cash
+509,06-Sep-2020,Ingrid,Putra,Makanan,Siomay,3,21468,Take Away,Cash
+510,05-Nov-2020,Philomena,Roy,Minuman,Redvelvet,1,20885,Take Away,Cash
+511,01-Jul-2021,Ramon,Roy,Makanan,Cireng,1,27843,Dine In,Debit
+512,08-Jun-2021,Shawn,Edining,Minuman,Americano,1,29482,Delivery,Debit
+513,24-Jul-2020,Maurice,Roy,Makanan,Nasi Goreng,2,15221,Take Away,Debit
+514,23-Aug-2020,Rozanne,Putra,Minuman,Cappucino,2,16393,Take Away,Cash
+515,26-Oct-2020,Mallory,Ganing,Makanan,Gyoza,1,33690,Delivery,Cash
+516,12-Oct-2020,Daven,Kevin,Minuman,Lemon Teh,2,15146,Delivery,Debit
+517,04-Feb-2021,Anette,Ganing,Makanan,Mie Ayam,3,15716,Delivery,Debit
+518,13-Nov-2020,Kimball,Ganing,Minuman,Ice Teh,1,34114,Delivery,Cash
+519,12-Dec-2020,Freeman,Ganing,Makanan,Siomay,3,17949,Delivery,Cash
+520,22-Nov-2020,Isiahi,Roy,Minuman,Redvelvet,2,27016,Delivery,Debit
+521,12-Oct-2020,Marietta,Edining,Makanan,Cireng,2,20278,Delivery,Cash
+522,24-Apr-2021,Elli,Putra,Minuman,Americano,3,19422,Delivery,Cash
+523,23-Feb-2021,Verine,Kevin,Makanan,Nasi Goreng,1,30830,Delivery,Debit
+524,13-May-2021,Evelyn,Putra,Minuman,Cappucino,3,25547,Delivery,Debit
+525,21-Nov-2020,Tania,Putra,Makanan,Gyoza,3,17733,Delivery,Debit
+526,11-Feb-2021,Kristofer,Ganing,Minuman,Lemon Teh,2,17399,Delivery,Debit
+527,01-May-2021,Lamont,Putra,Makanan,Mie Ayam,2,31266,Take Away,Cash
+528,15-Oct-2020,Evangelina,Edining,Minuman,Ice Teh,3,16296,Delivery,Debit
+529,12-Oct-2020,Douglas,Ganing,Makanan,Siomay,1,23390,Dine In,Cash
+530,27-Aug-2020,Nadeen,Kevin,Minuman,Redvelvet,1,25461,Take Away,Cash
+531,24-Jul-2020,Lonni,Ganing,Makanan,Cireng,1,23923,Delivery,Cash
+532,03-Jun-2021,Saxon,Edining,Minuman,Americano,2,20480,Delivery,Cash
+533,16-Sep-2020,Fiorenze,Putra,Makanan,Nasi Goreng,2,26573,Dine In,Cash
+534,27-Aug-2020,Kass,Roy,Minuman,Cappucino,2,27909,Delivery,Debit
+535,17-Aug-2020,Sacha,Roy,Makanan,Gyoza,1,21759,Delivery,Cash
+536,15-Sep-2020,Kikelia,Roy,Minuman,Lemon Teh,1,31200,Take Away,Debit
+537,09-Mar-2021,Kristofor,Putra,Makanan,Mie Ayam,3,32337,Dine In,Cash
+538,06-Apr-2021,Haily,Edining,Minuman,Ice Teh,3,29317,Dine In,Debit
+539,24-Feb-2021,Codee,Roy,Makanan,Siomay,3,27694,Take Away,Debit
+540,28-Jun-2021,Hubey,Kevin,Minuman,Redvelvet,3,24890,Dine In,Cash
+541,20-Nov-2020,Friederike,Edining,Makanan,Cireng,2,15013,Take Away,Cash
+542,02-Dec-2020,Pepita,Putra,Minuman,Americano,3,21244,Take Away,Cash
+543,28-Mar-2021,Haily,Roy,Makanan,Nasi Goreng,2,16607,Take Away,Debit
+544,02-Nov-2020,Launce,Edining,Minuman,Cappucino,1,16147,Dine In,Debit
+545,26-Aug-2020,Ferrell,Roy,Makanan,Gyoza,2,19854,Take Away,Debit
+546,01-Sep-2020,Aymer,Ganing,Minuman,Lemon Teh,3,26599,Dine In,Debit
+547,11-Aug-2020,Beatrix,Putra,Makanan,Mie Ayam,3,15836,Dine In,Debit
+548,29-Dec-2020,Lainey,Kevin,Minuman,Ice Teh,1,18046,Dine In,Cash
+549,07-Jan-2021,Tallie,Ganing,Makanan,Siomay,1,20987,Take Away,Debit
+550,01-Aug-2020,Vinnie,Edining,Minuman,Redvelvet,1,16617,Delivery,Debit
+551,06-Mar-2021,Osborn,Edining,Makanan,Cireng,2,18202,Dine In,Debit
+552,27-Aug-2020,Nona,Kevin,Minuman,Americano,2,19568,Dine In,Cash
+553,29-Sep-2020,Cairistiona,Roy,Makanan,Nasi Goreng,3,19715,Take Away,Debit
+554,15-Nov-2020,Pail,Kevin,Minuman,Cappucino,3,15758,Dine In,Debit
+555,24-Mar-2021,Roch,Ganing,Makanan,Gyoza,2,31535,Delivery,Cash
+556,01-May-2021,Alie,Putra,Minuman,Lemon Teh,3,33383,Delivery,Cash
+557,03-Mar-2021,Torie,Roy,Makanan,Mie Ayam,1,15042,Delivery,Debit
+558,15-Sep-2020,Gerry,Edining,Minuman,Ice Teh,3,32438,Take Away,Debit
+559,13-May-2021,Cara,Roy,Makanan,Siomay,3,17675,Take Away,Cash
+560,19-Aug-2020,Daron,Ganing,Minuman,Redvelvet,3,22698,Delivery,Debit
+561,28-Apr-2021,Heddie,Ganing,Makanan,Cireng,2,15079,Delivery,Debit
+562,08-Feb-2021,Selie,Ganing,Minuman,Americano,1,25004,Take Away,Cash
+563,03-Oct-2020,Georgianna,Kevin,Makanan,Nasi Goreng,2,30283,Take Away,Cash
+564,20-Sep-2020,Margot,Ganing,Minuman,Cappucino,3,17346,Delivery,Debit
+565,14-Dec-2020,Desmond,Roy,Makanan,Gyoza,1,16378,Dine In,Cash
+566,22-May-2021,Langsdon,Putra,Minuman,Lemon Teh,1,31063,Dine In,Cash
+567,15-Feb-2021,Athene,Kevin,Makanan,Mie Ayam,3,15316,Delivery,Cash
+568,24-Nov-2020,Serene,Ganing,Minuman,Ice Teh,3,29802,Dine In,Cash
+569,12-Aug-2020,Fabe,Edining,Makanan,Siomay,2,16511,Delivery,Cash
+570,17-Apr-2021,Obediah,Putra,Minuman,Redvelvet,1,16938,Delivery,Cash
+571,08-Mar-2021,Ansel,Edining,Makanan,Cireng,1,32115,Delivery,Debit
+572,13-Nov-2020,Cob,Roy,Minuman,Americano,2,27183,Take Away,Cash
+573,15-Mar-2021,Sandor,Roy,Makanan,Nasi Goreng,2,28501,Delivery,Cash
+574,30-Apr-2021,Richmond,Edining,Minuman,Cappucino,1,34548,Dine In,Cash
+575,18-Mar-2021,Mickey,Edining,Makanan,Gyoza,1,27977,Dine In,Cash
+576,02-Mar-2021,Talbert,Kevin,Minuman,Lemon Teh,1,27413,Take Away,Debit
+577,29-May-2021,Lanna,Roy,Makanan,Mie Ayam,1,21925,Delivery,Cash
+578,27-Sep-2020,Andi,Ganing,Minuman,Ice Teh,3,27879,Take Away,Debit
+579,07-Dec-2020,Lesley,Roy,Makanan,Siomay,2,24634,Dine In,Debit
+580,04-Sep-2020,Alva,Putra,Minuman,Redvelvet,3,20679,Dine In,Debit
+581,27-Jan-2021,Isa,Ganing,Makanan,Cireng,1,17699,Dine In,Cash
+582,15-Jun-2021,Alan,Kevin,Minuman,Americano,3,27575,Delivery,Cash
+583,26-Sep-2020,Angy,Roy,Makanan,Nasi Goreng,1,19705,Delivery,Debit
+584,03-May-2021,Tim,Roy,Minuman,Cappucino,2,23193,Delivery,Cash
+585,28-Aug-2020,Adelaide,Putra,Makanan,Gyoza,1,23401,Dine In,Cash
+586,02-Sep-2020,Georgianne,Ganing,Minuman,Lemon Teh,1,17966,Take Away,Cash
+587,22-Nov-2020,Gayelord,Ganing,Makanan,Mie Ayam,2,32049,Take Away,Debit
+588,16-Oct-2020,Zsa zsa,Putra,Minuman,Ice Teh,3,22813,Dine In,Cash
+589,14-Apr-2021,Wini,Roy,Makanan,Siomay,1,31262,Dine In,Cash
+590,15-Jan-2021,Kathryne,Roy,Minuman,Redvelvet,2,21742,Take Away,Cash
+591,25-Aug-2020,Sheila-kathryn,Edining,Makanan,Cireng,1,32728,Dine In,Cash
+592,18-Oct-2020,Jacynth,Edining,Minuman,Americano,2,34606,Delivery,Cash
+593,15-Oct-2020,Rob,Roy,Makanan,Nasi Goreng,1,19401,Take Away,Debit
+594,16-Mar-2021,Maggi,Edining,Minuman,Cappucino,1,24947,Delivery,Debit
+595,04-Nov-2020,Mayne,Ganing,Makanan,Gyoza,2,34050,Take Away,Debit
+596,24-Jun-2021,Vonni,Ganing,Minuman,Lemon Teh,2,20910,Delivery,Debit
+597,29-Jan-2021,Brooks,Ganing,Makanan,Mie Ayam,1,25659,Delivery,Cash
+598,26-Oct-2020,Lillian,Edining,Minuman,Ice Teh,1,33937,Dine In,Debit
+599,24-Mar-2021,Jania,Kevin,Makanan,Siomay,2,16253,Take Away,Debit
+600,30-Apr-2021,Jackie,Kevin,Minuman,Redvelvet,3,17559,Delivery,Cash
+601,19-Apr-2021,Albert,Putra,Makanan,Cireng,3,16858,Delivery,Cash
+602,29-Jan-2021,Ricki,Edining,Minuman,Americano,3,20222,Take Away,Debit
+603,03-Nov-2020,Papagena,Putra,Makanan,Nasi Goreng,1,17875,Dine In,Cash
+604,09-Dec-2020,Beverlee,Kevin,Minuman,Cappucino,3,21875,Dine In,Cash
+605,07-Nov-2020,Con,Putra,Makanan,Gyoza,3,32257,Delivery,Debit
+606,25-Feb-2021,Marja,Putra,Minuman,Lemon Teh,2,16581,Take Away,Debit
+607,27-Feb-2021,Kahaleel,Ganing,Makanan,Mie Ayam,1,25273,Dine In,Cash
+608,27-Jul-2020,Jarib,Putra,Minuman,Ice Teh,3,26725,Take Away,Debit
+609,02-Aug-2020,Solomon,Edining,Makanan,Siomay,1,18530,Take Away,Debit
+610,12-Dec-2020,Xaviera,Kevin,Minuman,Redvelvet,2,32352,Delivery,Debit
+611,14-May-2021,Maureene,Kevin,Makanan,Cireng,1,22047,Delivery,Debit
+612,08-Dec-2020,Phylys,Roy,Minuman,Americano,2,27422,Delivery,Debit
+613,26-Oct-2020,Elsey,Ganing,Makanan,Nasi Goreng,1,23426,Delivery,Debit
+614,09-Oct-2020,Lyn,Roy,Minuman,Cappucino,3,27868,Take Away,Debit
+615,14-Jan-2021,Ange,Putra,Makanan,Gyoza,2,26709,Delivery,Debit
+616,05-Mar-2021,Codie,Kevin,Minuman,Lemon Teh,2,24531,Dine In,Cash
+617,10-Oct-2020,Norrie,Ganing,Makanan,Mie Ayam,3,27265,Take Away,Cash
+618,22-Jan-2021,Raquela,Putra,Minuman,Ice Teh,1,18247,Take Away,Cash
+619,22-Mar-2021,Faina,Kevin,Makanan,Siomay,3,30356,Take Away,Cash
+620,15-Dec-2020,Gaultiero,Kevin,Minuman,Redvelvet,2,32139,Dine In,Debit
+621,02-Jun-2021,Tiffanie,Roy,Makanan,Cireng,2,26816,Delivery,Debit
+622,27-Nov-2020,Stephana,Ganing,Minuman,Americano,1,34657,Take Away,Debit
+623,23-Aug-2020,Kaile,Kevin,Makanan,Nasi Goreng,3,32868,Take Away,Debit
+624,25-Feb-2021,Edgard,Roy,Minuman,Cappucino,2,22790,Take Away,Cash
+625,22-Sep-2020,Isa,Putra,Makanan,Gyoza,3,34702,Take Away,Cash
+626,07-Mar-2021,Asia,Ganing,Minuman,Lemon Teh,2,23264,Delivery,Debit
+627,29-Oct-2020,Abramo,Edining,Makanan,Mie Ayam,3,30021,Dine In,Cash
+628,08-Mar-2021,Ami,Roy,Minuman,Ice Teh,3,19463,Take Away,Cash
+629,02-Jun-2021,Hulda,Kevin,Makanan,Siomay,3,17166,Delivery,Cash
+630,13-Aug-2020,Markos,Ganing,Minuman,Redvelvet,2,20659,Take Away,Debit
+631,06-Jan-2021,Ilyse,Putra,Makanan,Cireng,1,31004,Take Away,Debit
+632,29-Aug-2020,Emmeline,Kevin,Minuman,Americano,3,23702,Take Away,Cash
+633,04-Jul-2021,Edin,Roy,Makanan,Nasi Goreng,1,31110,Delivery,Debit
+634,12-Oct-2020,Eudora,Ganing,Minuman,Cappucino,3,28130,Take Away,Debit
+635,27-Jun-2021,Kassandra,Roy,Makanan,Gyoza,2,26329,Dine In,Cash
+636,09-Oct-2020,Christa,Roy,Minuman,Lemon Teh,3,26786,Take Away,Cash
+637,17-Dec-2020,Scarlett,Roy,Makanan,Mie Ayam,3,16807,Dine In,Cash
+638,23-Apr-2021,Rorie,Roy,Minuman,Ice Teh,1,15776,Delivery,Debit
+639,12-Nov-2020,Humfrid,Ganing,Makanan,Siomay,1,28288,Delivery,Debit
+640,29-Dec-2020,Buckie,Edining,Minuman,Redvelvet,3,19083,Dine In,Debit
+641,19-Feb-2021,Julieta,Ganing,Makanan,Cireng,1,20302,Take Away,Cash
+642,04-Jan-2021,Ilise,Roy,Minuman,Americano,2,21339,Dine In,Debit
+643,02-Sep-2020,Dede,Roy,Makanan,Nasi Goreng,3,19369,Dine In,Cash
+644,24-Dec-2020,Ricki,Ganing,Minuman,Cappucino,3,24245,Dine In,Cash
+645,20-May-2021,Erminie,Kevin,Makanan,Gyoza,1,25498,Delivery,Debit
+646,23-Sep-2020,Karola,Putra,Minuman,Lemon Teh,3,20001,Delivery,Debit
+647,10-Nov-2020,Tallou,Putra,Makanan,Mie Ayam,1,25328,Take Away,Cash
+648,02-May-2021,Thea,Roy,Minuman,Ice Teh,3,32436,Dine In,Cash
+649,25-Oct-2020,Mannie,Ganing,Makanan,Siomay,1,23339,Delivery,Cash
+650,26-Jul-2020,Wang,Kevin,Minuman,Redvelvet,3,28986,Dine In,Debit
+651,07-Jan-2021,Brod,Roy,Makanan,Cireng,1,30586,Take Away,Cash
+652,16-Dec-2020,Augusta,Edining,Minuman,Americano,1,31248,Dine In,Cash
+653,01-Dec-2020,Aurea,Edining,Makanan,Nasi Goreng,2,26313,Take Away,Debit
+654,21-Sep-2020,Rosa,Putra,Minuman,Cappucino,1,33343,Dine In,Cash
+655,23-Apr-2021,Amy,Edining,Makanan,Gyoza,1,21091,Delivery,Debit
+656,20-May-2021,Dorri,Kevin,Minuman,Lemon Teh,3,16654,Take Away,Cash
+657,09-Apr-2021,Loren,Edining,Makanan,Mie Ayam,3,19600,Take Away,Cash
+658,18-Dec-2020,Sianna,Ganing,Minuman,Ice Teh,3,33566,Dine In,Debit
+659,07-Nov-2020,Welbie,Edining,Makanan,Siomay,1,29541,Delivery,Cash
+660,10-Jul-2021,Daffie,Edining,Minuman,Redvelvet,1,25168,Take Away,Debit
+661,29-Mar-2021,Beatrice,Ganing,Makanan,Cireng,3,19268,Take Away,Debit
+662,06-May-2021,Valenka,Kevin,Minuman,Americano,3,26019,Take Away,Cash
+663,24-Dec-2020,Mead,Putra,Makanan,Nasi Goreng,2,30653,Take Away,Debit
+664,20-Jul-2021,Bambi,Edining,Minuman,Cappucino,3,30506,Delivery,Debit
+665,20-Mar-2021,Christin,Kevin,Makanan,Gyoza,1,31581,Take Away,Debit
+666,11-May-2021,Meridith,Putra,Minuman,Lemon Teh,3,30193,Take Away,Cash
+667,29-Jan-2021,Denver,Putra,Makanan,Mie Ayam,2,27577,Delivery,Cash
+668,24-Apr-2021,Bailey,Kevin,Minuman,Ice Teh,3,28629,Dine In,Cash
+669,12-Dec-2020,Raven,Edining,Makanan,Siomay,1,32672,Take Away,Cash
+670,23-Dec-2020,Mychal,Kevin,Minuman,Redvelvet,2,26964,Delivery,Cash
+671,06-Aug-2020,Noelyn,Edining,Makanan,Cireng,3,20892,Dine In,Debit
+672,28-Oct-2020,Creigh,Putra,Minuman,Americano,2,21935,Take Away,Debit
+673,04-Sep-2020,Renell,Ganing,Makanan,Nasi Goreng,2,18396,Delivery,Cash
+674,23-Apr-2021,Silvie,Roy,Minuman,Cappucino,1,26347,Delivery,Debit
+675,09-May-2021,Gertrud,Roy,Makanan,Gyoza,3,34794,Dine In,Cash
+676,21-Jan-2021,Pascale,Roy,Minuman,Lemon Teh,2,20584,Delivery,Cash
+677,13-Nov-2020,Nestor,Roy,Makanan,Mie Ayam,3,19929,Dine In,Cash
+678,20-May-2021,Phyllys,Roy,Minuman,Ice Teh,3,23042,Dine In,Cash
+679,09-Sep-2020,Allyn,Putra,Makanan,Siomay,2,18297,Dine In,Cash
+680,21-Mar-2021,Nap,Edining,Minuman,Redvelvet,1,17595,Dine In,Debit
+681,12-Feb-2021,Noam,Edining,Makanan,Cireng,2,26225,Take Away,Cash
+682,08-Feb-2021,Chrissie,Putra,Minuman,Americano,1,24960,Take Away,Debit
+683,15-Jun-2021,Ailbert,Putra,Makanan,Nasi Goreng,2,25111,Dine In,Debit
+684,07-Dec-2020,Ronny,Edining,Minuman,Cappucino,1,34872,Dine In,Debit
+685,26-Nov-2020,Wesley,Kevin,Makanan,Gyoza,2,27782,Take Away,Cash
+686,11-Jan-2021,Sasha,Ganing,Minuman,Lemon Teh,1,21851,Take Away,Cash
+687,14-Aug-2020,Carin,Ganing,Makanan,Mie Ayam,2,23795,Dine In,Debit
+688,11-Mar-2021,Stavro,Edining,Minuman,Ice Teh,1,32650,Take Away,Cash
+689,12-May-2021,Lurleen,Edining,Makanan,Siomay,3,22718,Dine In,Cash
+690,03-Nov-2020,Joete,Putra,Minuman,Redvelvet,3,22335,Take Away,Cash
+691,22-Mar-2021,Page,Ganing,Makanan,Cireng,1,16366,Take Away,Debit
+692,19-Jun-2021,Lacey,Kevin,Minuman,Americano,3,23110,Delivery,Debit
+693,23-Aug-2020,Cyrillus,Kevin,Makanan,Nasi Goreng,1,30569,Take Away,Debit
+694,04-Jan-2021,Teador,Putra,Minuman,Cappucino,3,30013,Dine In,Debit
+695,17-Oct-2020,Bailie,Roy,Makanan,Gyoza,3,23872,Dine In,Debit
+696,25-Nov-2020,Shela,Roy,Minuman,Lemon Teh,3,30454,Delivery,Debit
+697,09-Mar-2021,Gaile,Ganing,Makanan,Mie Ayam,2,34163,Take Away,Debit
+698,17-Jun-2021,Judas,Ganing,Minuman,Ice Teh,3,32784,Take Away,Debit
+699,11-Oct-2020,Vidovic,Edining,Makanan,Siomay,2,16511,Dine In,Debit
+700,05-Sep-2020,Andrus,Putra,Minuman,Redvelvet,2,33970,Take Away,Debit
+701,19-Jan-2021,Tammy,Kevin,Makanan,Cireng,1,17027,Dine In,Debit
+702,21-Jul-2021,Adria,Putra,Minuman,Americano,3,15978,Delivery,Cash
+703,24-Oct-2020,Clementina,Roy,Makanan,Nasi Goreng,2,29754,Take Away,Cash
+704,03-Nov-2020,Brandy,Kevin,Minuman,Cappucino,2,28507,Take Away,Debit
+705,16-Dec-2020,Matthias,Roy,Makanan,Gyoza,2,26381,Take Away,Cash
+706,28-Mar-2021,Fletch,Kevin,Minuman,Lemon Teh,2,16508,Take Away,Cash
+707,27-Apr-2021,Solly,Kevin,Makanan,Mie Ayam,2,28465,Dine In,Cash
+708,28-Apr-2021,Isiahi,Ganing,Minuman,Ice Teh,2,15043,Dine In,Debit
+709,27-Mar-2021,Finn,Kevin,Makanan,Siomay,1,32228,Delivery,Debit
+710,28-Jan-2021,Eddy,Putra,Minuman,Redvelvet,2,26822,Delivery,Debit
+711,22-Mar-2021,Emilie,Putra,Makanan,Cireng,2,29928,Dine In,Cash
+712,01-Oct-2020,Krishna,Roy,Minuman,Americano,2,27387,Dine In,Debit
+713,01-Oct-2020,Mignonne,Kevin,Makanan,Nasi Goreng,3,17978,Take Away,Debit
+714,15-May-2021,Mabelle,Roy,Minuman,Cappucino,1,23838,Delivery,Cash
+715,23-Apr-2021,Humfried,Putra,Makanan,Gyoza,1,19322,Delivery,Debit
+716,27-Sep-2020,Faye,Ganing,Minuman,Lemon Teh,1,29756,Delivery,Debit
+717,15-Mar-2021,Dino,Edining,Makanan,Mie Ayam,1,26320,Dine In,Cash
+718,25-Aug-2020,Trumaine,Putra,Minuman,Ice Teh,3,34615,Take Away,Cash
+719,09-Feb-2021,Sauncho,Edining,Makanan,Siomay,2,28874,Take Away,Debit
+720,15-May-2021,Tiffy,Ganing,Minuman,Redvelvet,2,17095,Take Away,Debit
+721,15-Jan-2021,Shawnee,Kevin,Makanan,Cireng,2,21276,Take Away,Debit
+722,16-Apr-2021,Rosie,Putra,Minuman,Americano,2,24358,Delivery,Cash
+723,24-Oct-2020,Genni,Edining,Makanan,Nasi Goreng,2,27683,Dine In,Cash
+724,27-Mar-2021,Misti,Roy,Minuman,Cappucino,2,34159,Delivery,Debit
+725,30-Oct-2020,Shawn,Roy,Makanan,Gyoza,2,24383,Dine In,Cash
+726,05-May-2021,Sutherland,Roy,Minuman,Lemon Teh,2,15765,Dine In,Cash
+727,16-Jul-2021,Elysia,Kevin,Makanan,Mie Ayam,3,21607,Dine In,Cash
+728,12-Feb-2021,Carlynn,Ganing,Minuman,Ice Teh,2,30087,Delivery,Debit
+729,02-Feb-2021,Teodorico,Edining,Makanan,Siomay,1,34524,Take Away,Cash
+730,08-Feb-2021,Puff,Kevin,Minuman,Redvelvet,1,31753,Delivery,Cash
+731,19-Mar-2021,Aidan,Putra,Makanan,Cireng,3,26438,Delivery,Cash
+732,16-Oct-2020,Adolpho,Putra,Minuman,Americano,3,33778,Dine In,Cash
+733,08-Sep-2020,Theo,Kevin,Makanan,Nasi Goreng,1,27946,Delivery,Cash
+734,04-Jan-2021,Britteny,Putra,Minuman,Cappucino,1,34779,Take Away,Debit
+735,28-Jan-2021,Hortense,Putra,Makanan,Gyoza,1,29953,Dine In,Debit
+736,06-Oct-2020,Janaye,Kevin,Minuman,Lemon Teh,2,32043,Dine In,Debit
+737,19-Dec-2020,Wylma,Roy,Makanan,Mie Ayam,3,25531,Delivery,Cash
+738,10-Mar-2021,Penn,Kevin,Minuman,Ice Teh,3,18903,Take Away,Cash
+739,25-Mar-2021,Emma,Roy,Makanan,Siomay,1,25272,Delivery,Cash
+740,18-Mar-2021,Paulita,Edining,Minuman,Redvelvet,1,21469,Delivery,Cash
+741,01-Mar-2021,Kinnie,Kevin,Makanan,Cireng,3,16180,Delivery,Cash
+742,15-Mar-2021,Sutherland,Ganing,Minuman,Americano,2,25224,Delivery,Cash
+743,23-Mar-2021,Burgess,Roy,Makanan,Nasi Goreng,2,17404,Take Away,Cash
+744,11-Jan-2021,Brena,Edining,Minuman,Cappucino,1,31735,Take Away,Cash
+745,30-Jan-2021,Webb,Roy,Makanan,Gyoza,2,34152,Take Away,Debit
+746,08-Dec-2020,Kat,Edining,Minuman,Lemon Teh,2,25637,Dine In,Cash
+747,25-Dec-2020,Perla,Ganing,Makanan,Mie Ayam,2,18024,Delivery,Cash
+748,16-Sep-2020,Teressa,Putra,Minuman,Ice Teh,2,30035,Delivery,Cash
+749,31-Jul-2020,Vicky,Edining,Makanan,Siomay,3,27521,Take Away,Debit
+750,25-Apr-2021,Law,Roy,Minuman,Redvelvet,1,34373,Dine In,Cash
+751,25-May-2021,Dedie,Kevin,Makanan,Cireng,3,29805,Delivery,Debit
+752,31-Oct-2020,Adriana,Roy,Minuman,Americano,2,20561,Take Away,Cash
+753,12-Sep-2020,Myrta,Kevin,Makanan,Nasi Goreng,3,22249,Take Away,Debit
+754,21-Oct-2020,Lauren,Roy,Minuman,Cappucino,2,27626,Take Away,Cash
+755,30-Jul-2020,Monica,Roy,Makanan,Gyoza,2,22078,Take Away,Cash
+756,10-Mar-2021,Shannen,Putra,Minuman,Lemon Teh,3,31446,Dine In,Cash
+757,03-Apr-2021,Dunstan,Ganing,Makanan,Mie Ayam,3,18511,Delivery,Cash
+758,08-May-2021,Clari,Putra,Minuman,Ice Teh,2,17914,Dine In,Debit
+759,25-Mar-2021,Stacia,Roy,Makanan,Siomay,2,27587,Take Away,Cash
+760,14-Dec-2020,Mohandis,Roy,Minuman,Redvelvet,2,30134,Take Away,Debit
+761,27-Mar-2021,Saunder,Roy,Makanan,Cireng,3,25701,Delivery,Cash
+762,12-Dec-2020,Emlyn,Roy,Minuman,Americano,1,17407,Take Away,Cash
+763,18-May-2021,Tabb,Putra,Makanan,Nasi Goreng,2,17925,Dine In,Cash
+764,12-Nov-2020,Ebba,Kevin,Minuman,Cappucino,1,22567,Dine In,Debit
+765,08-Dec-2020,Keri,Kevin,Makanan,Gyoza,1,29724,Take Away,Cash
+766,06-Mar-2021,Adrian,Edining,Minuman,Lemon Teh,1,28264,Take Away,Debit
+767,28-Dec-2020,Rozanne,Edining,Makanan,Mie Ayam,1,32516,Delivery,Debit
+768,10-May-2021,Kaylil,Ganing,Minuman,Ice Teh,2,20692,Take Away,Cash
+769,08-Nov-2020,Gunar,Ganing,Makanan,Siomay,3,27685,Dine In,Cash
+770,20-Apr-2021,Cal,Roy,Minuman,Redvelvet,1,15900,Dine In,Cash
+771,19-Jan-2021,Nannie,Roy,Makanan,Cireng,3,18313,Delivery,Cash
+772,26-Sep-2020,Gareth,Ganing,Minuman,Americano,2,20623,Take Away,Debit
+773,17-Jul-2021,Natalee,Ganing,Makanan,Nasi Goreng,2,21965,Dine In,Cash
+774,11-Dec-2020,Elwin,Putra,Minuman,Cappucino,3,17654,Take Away,Cash
+775,03-Aug-2020,Tera,Roy,Makanan,Gyoza,1,23963,Delivery,Debit
+776,31-Mar-2021,Kordula,Kevin,Minuman,Lemon Teh,3,22852,Take Away,Debit
+777,06-Jul-2021,Robby,Ganing,Makanan,Mie Ayam,2,30497,Dine In,Debit
+778,29-Jan-2021,Claiborne,Kevin,Minuman,Ice Teh,1,26593,Delivery,Cash
+779,02-May-2021,Giraldo,Ganing,Makanan,Siomay,3,25198,Take Away,Debit
+780,03-Jun-2021,Ellen,Putra,Minuman,Redvelvet,2,17042,Take Away,Cash
+781,29-Mar-2021,Theresina,Putra,Makanan,Cireng,1,34228,Take Away,Cash
+782,19-Jul-2021,Gunter,Ganing,Minuman,Americano,1,29555,Delivery,Debit
+783,20-May-2021,Cornie,Roy,Makanan,Nasi Goreng,3,21588,Delivery,Debit
+784,26-Sep-2020,Shandee,Kevin,Minuman,Cappucino,2,23537,Delivery,Debit
+785,07-Apr-2021,Jacky,Roy,Makanan,Gyoza,3,29454,Take Away,Debit
+786,27-Sep-2020,My,Roy,Minuman,Lemon Teh,1,30164,Dine In,Debit
+787,14-Aug-2020,Barb,Ganing,Makanan,Mie Ayam,2,16659,Take Away,Cash
+788,21-May-2021,Toiboid,Roy,Minuman,Ice Teh,3,24330,Take Away,Debit
+789,10-Feb-2021,Roanne,Roy,Makanan,Siomay,2,23175,Delivery,Cash
+790,24-Feb-2021,Cassy,Ganing,Minuman,Redvelvet,2,23739,Delivery,Debit
+791,23-Sep-2020,Starr,Putra,Makanan,Cireng,2,20045,Dine In,Cash
+792,22-Aug-2020,Janna,Roy,Minuman,Americano,3,34117,Delivery,Cash
+793,09-Jun-2021,Ealasaid,Kevin,Makanan,Nasi Goreng,2,29010,Dine In,Cash
+794,13-Aug-2020,Samara,Putra,Minuman,Cappucino,2,18090,Take Away,Cash
+795,22-Mar-2021,Jaye,Kevin,Makanan,Gyoza,1,24883,Delivery,Cash
+796,20-Aug-2020,Carolee,Ganing,Minuman,Lemon Teh,3,25157,Dine In,Cash
+797,25-Aug-2020,Francyne,Ganing,Makanan,Mie Ayam,3,16405,Dine In,Cash
+798,06-Feb-2021,Reynold,Kevin,Minuman,Ice Teh,3,20397,Dine In,Cash
+799,26-Mar-2021,Alyse,Putra,Makanan,Siomay,1,21804,Delivery,Cash
+800,01-Apr-2021,Patrick,Edining,Minuman,Redvelvet,2,17964,Delivery,Debit
+801,10-Sep-2020,Marthe,Kevin,Makanan,Cireng,3,19721,Take Away,Debit
+802,14-Sep-2020,Guendolen,Putra,Minuman,Americano,2,34215,Dine In,Cash
+803,13-Sep-2020,Mira,Ganing,Makanan,Nasi Goreng,1,33681,Delivery,Cash
+804,12-Apr-2021,Idelle,Edining,Minuman,Cappucino,2,15508,Delivery,Cash
+805,15-Jun-2021,Welbie,Roy,Makanan,Gyoza,3,30636,Dine In,Debit
+806,09-May-2021,Willabella,Roy,Minuman,Lemon Teh,2,17598,Delivery,Debit
+807,06-Nov-2020,Jamill,Edining,Makanan,Mie Ayam,2,21537,Dine In,Debit
+808,19-Nov-2020,Brittany,Roy,Minuman,Ice Teh,2,17160,Dine In,Cash
+809,26-Jan-2021,Lyndsie,Ganing,Makanan,Siomay,3,34411,Take Away,Cash
+810,07-May-2021,Terry,Ganing,Minuman,Redvelvet,2,28369,Dine In,Debit
+811,05-Mar-2021,Gerik,Ganing,Makanan,Cireng,3,23345,Dine In,Debit
+812,09-Aug-2020,Cammie,Kevin,Minuman,Americano,3,21625,Take Away,Debit
+813,13-Nov-2020,Sadella,Roy,Makanan,Nasi Goreng,1,27705,Delivery,Debit
+814,22-Mar-2021,Ambrosius,Edining,Minuman,Cappucino,1,15535,Dine In,Cash
+815,08-May-2021,Sandy,Ganing,Makanan,Gyoza,2,29032,Take Away,Cash
+816,29-Dec-2020,Farrand,Edining,Minuman,Lemon Teh,1,24238,Dine In,Cash
+817,28-Jul-2020,Fitzgerald,Roy,Makanan,Mie Ayam,2,24133,Delivery,Debit
+818,08-Jul-2021,Gloriane,Putra,Minuman,Ice Teh,1,27717,Take Away,Debit
+819,25-Jan-2021,Brigitta,Kevin,Makanan,Siomay,1,24060,Take Away,Cash
+820,31-Jan-2021,Catherin,Putra,Minuman,Redvelvet,2,22251,Dine In,Cash
+821,17-Feb-2021,Charlie,Edining,Makanan,Cireng,1,29204,Dine In,Cash
+822,13-Nov-2020,Addie,Ganing,Minuman,Americano,3,18795,Dine In,Debit
+823,16-Aug-2020,Denys,Ganing,Makanan,Nasi Goreng,3,26373,Delivery,Cash
+824,26-Mar-2021,Velma,Putra,Minuman,Cappucino,3,30921,Delivery,Debit
+825,18-Jun-2021,Eula,Edining,Makanan,Gyoza,2,17317,Delivery,Debit
+826,11-Nov-2020,Noami,Putra,Minuman,Lemon Teh,1,29242,Dine In,Debit
+827,12-May-2021,Janella,Kevin,Makanan,Mie Ayam,1,21895,Take Away,Debit
+828,15-Mar-2021,Shae,Edining,Minuman,Ice Teh,3,23664,Delivery,Cash
+829,07-Feb-2021,Dorrie,Kevin,Makanan,Siomay,2,34837,Take Away,Cash
+830,18-Jun-2021,Tito,Kevin,Minuman,Redvelvet,2,34930,Delivery,Cash
+831,02-Feb-2021,Felita,Roy,Makanan,Cireng,3,21538,Delivery,Debit
+832,23-Jan-2021,Leora,Ganing,Minuman,Americano,3,22471,Take Away,Cash
+833,05-Sep-2020,Maurine,Putra,Makanan,Nasi Goreng,2,18672,Dine In,Cash
+834,28-Jun-2021,Rory,Putra,Minuman,Cappucino,3,34350,Take Away,Cash
+835,01-Dec-2020,Kienan,Roy,Makanan,Gyoza,1,16480,Dine In,Debit
+836,21-Apr-2021,Rickie,Putra,Minuman,Lemon Teh,2,25657,Dine In,Debit
+837,13-Dec-2020,Estrella,Ganing,Makanan,Mie Ayam,2,20001,Take Away,Cash
+838,12-Aug-2020,Broderic,Kevin,Minuman,Ice Teh,2,19232,Delivery,Cash
+839,27-Dec-2020,Therine,Kevin,Makanan,Siomay,2,31991,Dine In,Debit
+840,16-Oct-2020,Stoddard,Roy,Minuman,Redvelvet,2,34916,Take Away,Cash
+841,14-Aug-2020,Wittie,Putra,Makanan,Cireng,3,17512,Delivery,Cash
+842,01-Jul-2021,Alexi,Putra,Minuman,Americano,1,34418,Delivery,Cash
+843,17-Sep-2020,Mikey,Kevin,Makanan,Nasi Goreng,1,27328,Delivery,Debit
+844,23-May-2021,Frederique,Edining,Minuman,Cappucino,3,17869,Take Away,Debit
+845,15-May-2021,Lola,Kevin,Makanan,Gyoza,1,18617,Dine In,Cash
+846,29-Aug-2020,Andy,Kevin,Minuman,Lemon Teh,3,31107,Delivery,Cash
+847,19-May-2021,Gerianna,Kevin,Makanan,Mie Ayam,2,34749,Take Away,Debit
+848,30-Mar-2021,Mead,Ganing,Minuman,Ice Teh,2,20690,Take Away,Debit
+849,19-Mar-2021,Burl,Kevin,Makanan,Siomay,1,30598,Take Away,Debit
+850,04-Sep-2020,Prudy,Edining,Minuman,Redvelvet,2,33005,Delivery,Debit
+851,07-Sep-2020,Yalonda,Ganing,Makanan,Cireng,1,32061,Delivery,Cash
+852,22-Nov-2020,Abbe,Putra,Minuman,Americano,2,16480,Delivery,Cash
+853,16-Aug-2020,Donnie,Kevin,Makanan,Nasi Goreng,1,27611,Dine In,Cash
+854,18-Mar-2021,Jud,Ganing,Minuman,Cappucino,2,29133,Dine In,Cash
+855,18-May-2021,Aundrea,Putra,Makanan,Gyoza,1,16077,Dine In,Cash
+856,19-Aug-2020,Igor,Kevin,Minuman,Lemon Teh,1,33559,Dine In,Cash
+857,10-Jun-2021,Krishna,Ganing,Makanan,Mie Ayam,3,20595,Delivery,Debit
+858,18-Apr-2021,Jennifer,Edining,Minuman,Ice Teh,1,33051,Take Away,Cash
+859,27-Apr-2021,Berte,Ganing,Makanan,Siomay,2,25260,Delivery,Cash
+860,14-Jul-2021,Katti,Ganing,Minuman,Redvelvet,3,27379,Dine In,Debit
+861,10-Apr-2021,Ray,Kevin,Makanan,Cireng,1,25578,Dine In,Debit
+862,23-Nov-2020,Chen,Edining,Minuman,Americano,2,28923,Dine In,Debit
+863,12-Mar-2021,Tucker,Putra,Makanan,Nasi Goreng,2,30198,Dine In,Cash
+864,17-Jan-2021,Amerigo,Ganing,Minuman,Cappucino,1,20680,Dine In,Debit
+865,03-Apr-2021,Salvador,Roy,Makanan,Gyoza,1,30423,Delivery,Cash
+866,01-Aug-2020,Vic,Kevin,Minuman,Lemon Teh,3,26309,Delivery,Cash
+867,18-Apr-2021,Gennie,Putra,Makanan,Mie Ayam,2,22920,Dine In,Debit
+868,06-Dec-2020,Boyce,Edining,Minuman,Ice Teh,3,18631,Delivery,Debit
+869,11-Dec-2020,Larissa,Roy,Makanan,Siomay,1,25583,Take Away,Cash
+870,30-Jun-2021,Ingar,Putra,Minuman,Redvelvet,2,15779,Delivery,Debit
+871,18-Jun-2021,Wilmette,Ganing,Makanan,Cireng,2,28869,Dine In,Debit
+872,11-Sep-2020,Alica,Edining,Minuman,Americano,2,27141,Dine In,Cash
+873,30-Jan-2021,Tamiko,Roy,Makanan,Nasi Goreng,2,21607,Delivery,Cash
+874,30-Jan-2021,Zebulen,Ganing,Minuman,Cappucino,1,30942,Take Away,Cash
+875,22-Dec-2020,Nessy,Putra,Makanan,Gyoza,1,20779,Dine In,Debit
+876,01-Jan-2021,Sonia,Edining,Minuman,Lemon Teh,2,32505,Take Away,Debit
+877,23-Jan-2021,Garek,Putra,Makanan,Mie Ayam,1,24182,Take Away,Debit
+878,03-Dec-2020,Oneida,Putra,Minuman,Ice Teh,2,28660,Delivery,Cash
+879,11-Oct-2020,Ax,Ganing,Makanan,Siomay,3,17087,Dine In,Debit
+880,02-Oct-2020,Celinda,Ganing,Minuman,Redvelvet,2,34235,Dine In,Debit
+881,10-Feb-2021,Dredi,Putra,Makanan,Cireng,3,15580,Dine In,Debit
+882,12-Nov-2020,Debi,Roy,Minuman,Americano,2,22892,Dine In,Debit
+883,17-Jun-2021,Marwin,Putra,Makanan,Nasi Goreng,1,28574,Delivery,Debit
+884,20-Aug-2020,Hildagard,Edining,Minuman,Cappucino,1,16008,Delivery,Debit
+885,22-Nov-2020,Sande,Edining,Makanan,Gyoza,3,30432,Take Away,Debit
+886,09-Jul-2021,Elsi,Putra,Minuman,Lemon Teh,3,24234,Delivery,Cash
+887,14-Sep-2020,Gottfried,Putra,Makanan,Mie Ayam,1,29425,Delivery,Cash
+888,30-Jan-2021,Vaclav,Roy,Minuman,Ice Teh,3,24431,Take Away,Debit
+889,10-Aug-2020,Rochelle,Putra,Makanan,Siomay,3,23694,Dine In,Debit
+890,05-Oct-2020,Dino,Ganing,Minuman,Redvelvet,3,29790,Delivery,Debit
+891,27-Mar-2021,Fey,Edining,Makanan,Cireng,1,33423,Take Away,Debit
+892,17-Mar-2021,Meg,Edining,Minuman,Americano,1,23750,Dine In,Cash
+893,14-Feb-2021,Harli,Putra,Makanan,Nasi Goreng,3,16514,Take Away,Cash
+894,09-Mar-2021,Jo-anne,Roy,Minuman,Cappucino,1,19947,Take Away,Cash
+895,09-Mar-2021,Derwin,Putra,Makanan,Gyoza,3,19371,Take Away,Debit
+896,09-Apr-2021,Krystle,Putra,Minuman,Lemon Teh,3,33294,Delivery,Debit
+897,30-Apr-2021,Cordy,Ganing,Makanan,Mie Ayam,1,34745,Take Away,Debit
+898,15-Aug-2020,Bevin,Putra,Minuman,Ice Teh,2,20971,Take Away,Debit
+899,06-Jul-2021,Tailor,Roy,Makanan,Siomay,2,20530,Take Away,Debit
+900,09-May-2021,Jard,Kevin,Minuman,Redvelvet,1,17977,Delivery,Debit
+901,22-Aug-2020,Elyssa,Putra,Makanan,Cireng,2,22760,Delivery,Debit
+902,28-Feb-2021,Ronny,Edining,Minuman,Americano,3,24312,Take Away,Cash
+903,14-Jun-2021,Liane,Edining,Makanan,Nasi Goreng,3,19144,Delivery,Cash
+904,22-Dec-2020,Sharla,Putra,Minuman,Cappucino,3,17410,Dine In,Cash
+905,19-Feb-2021,Dannye,Ganing,Makanan,Gyoza,2,17898,Dine In,Cash
+906,19-Oct-2020,Selle,Kevin,Minuman,Lemon Teh,1,31141,Delivery,Cash
+907,25-Jul-2020,Susie,Ganing,Makanan,Mie Ayam,1,21397,Delivery,Cash
+908,03-Mar-2021,Ford,Edining,Minuman,Ice Teh,3,23607,Delivery,Cash
+909,16-Aug-2020,Maye,Roy,Makanan,Siomay,1,22549,Take Away,Debit
+910,17-Feb-2021,Dolph,Edining,Minuman,Redvelvet,2,18566,Take Away,Cash
+911,15-Mar-2021,Gilbert,Edining,Makanan,Cireng,2,19262,Take Away,Cash
+912,15-Oct-2020,Carroll,Roy,Minuman,Americano,1,30307,Take Away,Debit
+913,16-Dec-2020,Atlante,Putra,Makanan,Nasi Goreng,3,25386,Dine In,Debit
+914,23-Mar-2021,Noland,Kevin,Minuman,Cappucino,3,21535,Delivery,Debit
+915,29-Oct-2020,Abbott,Ganing,Makanan,Gyoza,1,19287,Delivery,Debit
+916,04-Jun-2021,Kliment,Ganing,Minuman,Lemon Teh,1,24686,Dine In,Cash
+917,22-Feb-2021,Baily,Edining,Makanan,Mie Ayam,1,25734,Dine In,Debit
+918,15-Jun-2021,Cayla,Roy,Minuman,Ice Teh,3,34519,Dine In,Debit
+919,14-Mar-2021,Remy,Putra,Makanan,Siomay,2,28253,Take Away,Cash
+920,11-Jan-2021,Justis,Roy,Minuman,Redvelvet,2,27488,Delivery,Debit
+921,07-Oct-2020,Peyter,Edining,Makanan,Cireng,2,34617,Delivery,Debit
+922,15-Jan-2021,Hamlin,Putra,Minuman,Americano,1,20378,Take Away,Debit
+923,12-Aug-2020,Gwynne,Ganing,Makanan,Nasi Goreng,3,26962,Delivery,Debit
+924,12-Feb-2021,Leopold,Roy,Minuman,Cappucino,2,31068,Dine In,Debit
+925,07-Dec-2020,Melicent,Ganing,Makanan,Gyoza,1,15086,Dine In,Cash
+926,01-Jul-2021,Kellby,Edining,Minuman,Lemon Teh,1,29969,Take Away,Cash
+927,11-Nov-2020,Caro,Putra,Makanan,Mie Ayam,2,23851,Delivery,Debit
+928,06-Jun-2021,Brittne,Ganing,Minuman,Ice Teh,1,27270,Dine In,Debit
+929,03-May-2021,Aggi,Edining,Makanan,Siomay,3,25524,Delivery,Debit
+930,29-Jun-2021,Phylis,Roy,Minuman,Redvelvet,3,25066,Dine In,Debit
+931,25-Apr-2021,Somerset,Roy,Makanan,Cireng,3,24244,Delivery,Debit
+932,08-Jun-2021,Wit,Roy,Minuman,Americano,1,19300,Take Away,Cash
+933,25-Sep-2020,Wayne,Edining,Makanan,Nasi Goreng,3,26501,Delivery,Debit
+934,16-Jun-2021,Carlotta,Putra,Minuman,Cappucino,2,32874,Delivery,Cash
+935,09-Jan-2021,Bevan,Roy,Makanan,Gyoza,2,22913,Dine In,Cash
+936,28-Jul-2020,Maure,Kevin,Minuman,Lemon Teh,1,24532,Dine In,Debit
+937,14-Apr-2021,Babette,Roy,Makanan,Mie Ayam,3,23658,Delivery,Cash
+938,30-May-2021,Fidelia,Edining,Minuman,Ice Teh,2,27139,Delivery,Cash
+939,21-Aug-2020,Trefor,Roy,Makanan,Siomay,3,31006,Delivery,Cash
+940,16-Oct-2020,Lurline,Roy,Minuman,Redvelvet,1,26202,Delivery,Cash
+941,26-Sep-2020,Desiri,Edining,Makanan,Cireng,2,34741,Delivery,Cash
+942,13-Dec-2020,Rufus,Edining,Minuman,Americano,2,28090,Dine In,Debit
+943,21-Apr-2021,Felicio,Roy,Makanan,Nasi Goreng,1,33499,Dine In,Cash
+944,30-Oct-2020,Hedi,Ganing,Minuman,Cappucino,1,30719,Dine In,Cash
+945,27-Jan-2021,Jayme,Kevin,Makanan,Gyoza,2,19693,Take Away,Cash
+946,22-Nov-2020,Phyllys,Ganing,Minuman,Lemon Teh,2,15507,Take Away,Debit
+947,03-Aug-2020,Golda,Edining,Makanan,Mie Ayam,1,17840,Take Away,Cash
+948,27-Feb-2021,Selma,Kevin,Minuman,Ice Teh,1,19103,Dine In,Debit
+949,23-Aug-2020,Freemon,Roy,Makanan,Siomay,3,21762,Dine In,Cash
+950,16-May-2021,Johna,Putra,Minuman,Redvelvet,3,33823,Dine In,Cash
+951,02-Apr-2021,Odessa,Ganing,Makanan,Cireng,2,24606,Dine In,Cash
+952,25-Jul-2020,Red,Ganing,Minuman,Americano,3,15398,Take Away,Debit
+953,06-Jul-2021,Idaline,Putra,Makanan,Nasi Goreng,3,34542,Delivery,Debit
+954,19-Mar-2021,Carry,Kevin,Minuman,Cappucino,1,19220,Delivery,Cash
+955,11-Apr-2021,Perry,Ganing,Makanan,Gyoza,3,34176,Take Away,Debit
+956,22-Apr-2021,Cori,Putra,Minuman,Lemon Teh,1,27578,Delivery,Cash
+957,24-Nov-2020,Basia,Kevin,Makanan,Mie Ayam,3,33677,Take Away,Cash
+958,16-Feb-2021,Tedie,Roy,Minuman,Ice Teh,1,33666,Take Away,Cash
+959,25-Apr-2021,Vivyan,Putra,Makanan,Siomay,2,31712,Take Away,Cash
+960,12-Dec-2020,Lay,Ganing,Minuman,Redvelvet,1,19821,Take Away,Cash
+961,18-Oct-2020,Kinnie,Roy,Makanan,Cireng,2,22974,Dine In,Cash
+962,02-Jul-2021,Dix,Kevin,Minuman,Americano,3,28787,Delivery,Cash
+963,01-Aug-2020,Othelia,Edining,Makanan,Nasi Goreng,2,32891,Delivery,Cash
+964,25-Mar-2021,Yul,Roy,Minuman,Cappucino,2,26279,Dine In,Cash
+965,15-Dec-2020,Antone,Edining,Makanan,Gyoza,2,18523,Delivery,Cash
+966,31-Jul-2020,Claiborne,Putra,Minuman,Lemon Teh,1,25199,Delivery,Debit
+967,22-Oct-2020,Ameline,Roy,Makanan,Mie Ayam,2,32712,Delivery,Cash
+968,24-Nov-2020,Base,Ganing,Minuman,Ice Teh,2,27654,Dine In,Cash
+969,11-Dec-2020,Klement,Edining,Makanan,Siomay,1,16416,Dine In,Cash
+970,07-Apr-2021,Grier,Ganing,Minuman,Redvelvet,3,17873,Dine In,Debit
+971,08-Aug-2020,Owen,Kevin,Makanan,Cireng,2,15497,Delivery,Cash
+972,12-May-2021,Chad,Roy,Minuman,Americano,2,22569,Delivery,Cash
+973,15-Jan-2021,Cherri,Roy,Makanan,Nasi Goreng,1,26015,Delivery,Debit
+974,30-Jun-2021,Alvira,Ganing,Minuman,Cappucino,3,20184,Delivery,Debit
+975,06-Dec-2020,Erna,Edining,Makanan,Gyoza,1,16795,Delivery,Cash
+976,03-Apr-2021,Caressa,Kevin,Minuman,Lemon Teh,3,23283,Delivery,Debit
+977,22-Aug-2020,Ola,Edining,Makanan,Mie Ayam,2,34330,Dine In,Cash
+978,22-Oct-2020,Corey,Putra,Minuman,Ice Teh,3,27166,Take Away,Cash
+979,05-Jan-2021,Grannie,Ganing,Makanan,Siomay,1,22668,Delivery,Debit
+980,28-Dec-2020,Darwin,Edining,Minuman,Redvelvet,3,21336,Dine In,Cash
+981,08-Mar-2021,Blinni,Putra,Makanan,Cireng,1,19860,Take Away,Debit
+982,07-Jul-2021,Rae,Putra,Minuman,Americano,1,28678,Dine In,Debit
+983,31-Jan-2021,Trudey,Edining,Makanan,Nasi Goreng,1,23303,Delivery,Cash
+984,11-Mar-2021,Bourke,Kevin,Minuman,Cappucino,1,28497,Take Away,Debit
+985,02-Nov-2020,Loralee,Roy,Makanan,Gyoza,1,22006,Dine In,Debit
+986,12-Dec-2020,Humfried,Putra,Minuman,Lemon Teh,3,30380,Delivery,Cash
+987,01-Oct-2020,Courtnay,Kevin,Makanan,Mie Ayam,1,17387,Take Away,Debit
+988,11-Mar-2021,Clarabelle,Kevin,Minuman,Ice Teh,1,27178,Dine In,Debit
+989,04-Nov-2020,Jojo,Ganing,Makanan,Siomay,3,25342,Delivery,Cash
+990,15-Jul-2021,Cassi,Edining,Minuman,Redvelvet,3,25680,Dine In,Cash
+991,25-Sep-2020,Ellyn,Kevin,Makanan,Cireng,1,34222,Take Away,Debit
+992,07-Dec-2020,Bald,Putra,Minuman,Americano,2,34289,Dine In,Debit
+993,04-May-2021,Ruthe,Roy,Makanan,Nasi Goreng,2,31013,Delivery,Cash
+994,12-Dec-2020,Raffaello,Edining,Minuman,Cappucino,1,27501,Delivery,Debit
+995,13-Dec-2020,Clark,Edining,Makanan,Gyoza,2,30723,Delivery,Debit
+996,15-Nov-2020,Guss,Kevin,Minuman,Lemon Teh,2,25038,Take Away,Debit
+997,25-Oct-2020,Shaun,Roy,Makanan,Mie Ayam,1,17990,Take Away,Cash
+998,02-Dec-2020,Buck,Putra,Minuman,Ice Teh,2,16127,Take Away,Cash
+999,26-Dec-2020,Mair,Ganing,Makanan,Siomay,1,34676,Delivery,Debit
+1000,28-Jun-2021,Aldus,Putra,Minuman,Redvelvet,2,33533,Dine In,Cash
